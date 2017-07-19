@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {
+      "StgHelpdesk\\": "src/",
+      "Html2Text\\": "static-vendor/soundasleep/html2text/src/"
+    },
+    "psr-0": {
+      "PhpImap": "static-vendor/php-imap/php-imap/src/"
+    },
+    "files": ["bootstrap.php"]
+  }
+}

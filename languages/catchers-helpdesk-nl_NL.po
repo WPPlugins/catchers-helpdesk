@@ -1,0 +1,2250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: catchers-helpdesk\n"
+"POT-Creation-Date: 2017-01-17 09:19+0100\n"
+"PO-Revision-Date: 2017-01-20 11:41+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-KeywordsList: _e;__;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Last-Translator: Sjoerd Blom <info@vertizio.nl>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: nl_NL\n"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-upload-file-field.php:7
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-attachements-block.php:9
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Email.php:315
+msgid "Attachments"
+msgstr "Bijlagen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-all-tickets.php:8
+msgid "Your tickets"
+msgstr "Jouw tickets"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-all-tickets.php:64
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:132
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:171
+msgid "Not found"
+msgstr "Niet gevonden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-all-tickets.php:70
+msgid "Open new ticket"
+msgstr "Nieuw ticket openen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-ticket-form-by-id.php:55
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-ticket-form.php:54
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:432
+msgid "Submit"
+msgstr "Verzenden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-single-ticket.php:52
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/ticket-helpers.php:412
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:739
+msgid "Replies"
+msgstr "Antwoorden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-single-ticket.php:72
+msgid "The ticket has been closed. "
+msgstr "Het ticket is gesloten."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-single-ticket.php:78
+msgid "Write a reply"
+msgstr "Beantwoorden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-profile-user-fields.php:1
+msgid "CRM Profile"
+msgstr "CRM profiel"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-profile-user-fields.php:6
+msgid "Company"
+msgstr "Bedrijf"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-profile-user-fields.php:13
+msgid "Please enter your crm company."
+msgstr "Vul je bedrijfsnaam in."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-profile-user-fields.php:19
+msgid "Skype"
+msgstr "Skype"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-profile-user-fields.php:25
+msgid "Please enter your crm skype."
+msgstr "Vul je Skypenaam in."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-profile-user-fields.php:31
+msgid "Phone"
+msgstr "Telefoon"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-profile-user-fields.php:37
+msgid "Please enter your crm phone."
+msgstr "Vul je telefoonnummer in."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-profile-user-fields.php:43
+msgid "Website"
+msgstr "Website"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-profile-user-fields.php:50
+msgid "Please enter your crm website."
+msgstr "Vul je websiteadres in."
+
+# Position like in jobposition?
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-profile-user-fields.php:56
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:127
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:174
+msgid "Position"
+msgstr "Functie"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-profile-user-fields.php:63
+msgid "Please enter your crm position."
+msgstr "Vul je functie in."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-ticket-form.php:25
+msgid "Your name"
+msgstr "Jouw naam"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-ticket-form.php:31
+msgid "Email"
+msgstr "E-mail"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-ticket-form.php:39
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:260
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-published.php:120
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:65
+msgid "Category"
+msgstr "Categorie"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-ticket-form.php:45
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-published.php:105
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-gethelp.php:29
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:437
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:87
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-ticket-form.php:48
+msgid "Description"
+msgstr "Omschrijving"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/reply_agent.php:12
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/ticket_open.php:21
+msgid "View ticket in your web browser "
+msgstr "Bekijk ticket in je browser"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/ticket_open.php:3
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/ticket_assign.php:5
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/ticket_accepted.php:6
+msgid "On "
+msgstr "Op"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/ticket_open.php:4
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/ticket_assign.php:6
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/ticket_accepted.php:7
+msgid "wrote"
+msgstr "schreef"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/ticket_assign.php:1
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/ticket_accepted.php:1
+msgid "Hello"
+msgstr "Hallo"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/ticket_assign.php:2
+msgid "Ticket has been assigned to you"
+msgstr "Ticket is aan jou toegewezen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/ticket_accepted.php:3
+msgid ""
+"We just got your help request! And do our best to answer emails as soon as "
+"possible, with most inquiries receiving a response within about a day."
+msgstr ""
+"We hebben zojuist je verzoek ontvangen. We doen ons best om e-mails zo snel "
+"mogelijk te beantwoorden, waarbij de meeste vragen binnen ongeveer een dag "
+"beantwoord worden."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/ticket_accepted.php:23
+msgid "To track your email, we've tagged it with a ticket code"
+msgstr ""
+"Om je mail te kunnen volgen, hebben we het gemarkeerd met een ticketnummer"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/reply_client.php:1
+msgid "User "
+msgstr "Gebruiker"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/reply_client.php:3
+msgid "just replied to ticket"
+msgstr "beantwoordde zojuist ticket"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/reply_client.php:23
+msgid ""
+"You have received this notification because you have either subscribed to "
+"it, or are involved in it."
+msgstr ""
+"Je ontvangt deze notificatie omdat je jezelf er op hebt geabonneerd of omdat "
+"je er in betrokken bent."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/titan-framework-checker.php:72
+msgid "Titan Framework needs to be installed."
+msgstr "Titan Framework moet geïnstalleerd worden."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/titan-framework-checker.php:75
+msgid "Click here to search for the plugin."
+msgstr "Klik hier om de plugin te zoeken."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/titan-framework-checker.php:82
+msgid "Titan Framework needs to be activated."
+msgstr "Titan Framework moet worden geactiveerd."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/titan-framework-checker.php:85
+msgid "Click here to go to the plugins page and activate it."
+msgstr "Klik hier om naar de pluginpagina te gaan en het te activeren."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/titan-framework.php:170
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/titan-framework.php:174
+msgid "GitHub repo"
+msgstr "GitHub repo"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/titan-framework.php:178
+msgid "Issue tracker"
+msgstr "Probleemtracker"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:177
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+"Er is een nieuwe versie van %1$s beschikbaar. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">Bekijk details versie %3$s</a>."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:184
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+"\">update now</a>."
+msgstr ""
+"Er is een nieuwe versie van %1$s beschikbaar. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">Bekijk details versie %3$s</a> of <a href=\"%4$s"
+"\">nu bijwerken</a>."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:324
+msgid "You do not have permission to install plugin updates"
+msgstr "Je hebt geen rechten om plugins bij te werken"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:324
+msgid "Error"
+msgstr "Fout"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-titan-framework.php:158
+#, php-format
+msgid ""
+"All option IDs per namespace must be unique. The id %s has been used "
+"multiple times."
+msgstr ""
+"Alle optie ID's per namespace dienen uniek te zijn. Het ID %s is meerdere "
+"malen gebruikt."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-titan-framework.php:395
+#, php-format
+msgid "%s needs a %s parameter."
+msgstr "%s heeft een %s parameter nodig."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-titan-framework.php:405
+#, php-format
+msgid "Container of type %s, does not exist."
+msgstr "Container van het type %s bestaat niet."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-enable.php:21
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-enable.php:100
+msgid "Enabled"
+msgstr "Geactiveerd"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-enable.php:24
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-enable.php:103
+msgid "Disabled"
+msgstr "Gedeactiveerd"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-multicheck-pages.php:27
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-multicheck-pages.php:48
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-select-pages.php:38
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-multicheck-posts.php:34
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-multicheck-posts.php:60
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-select-posts.php:46
+#, php-format
+msgid "Untitled %s"
+msgstr "Geen titel %s"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-save.php:21
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-published.php:158
+msgid "Save changes"
+msgstr "Wijzigingen opslaan"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-save.php:24
+msgid "Reset to defaults"
+msgstr "Terug naar de standaardinstellingen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-save.php:27
+msgid "Are you sure you want to reset ALL options to their default values?"
+msgstr ""
+"Weet je zeker dat je ALLE opties terug wilt zetten naar de standaard "
+"instellingen?"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:370
+msgid "Theme license"
+msgstr "Thema licentie"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:371
+msgid "Enter your theme license key."
+msgstr "Vul de licentiesleutel van je thema in."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:372
+msgid "License key"
+msgstr "Licentiesleutel"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:373
+msgid "License action"
+msgstr "Licentieactie"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:374
+msgid "Deactivate license"
+msgstr "Licentie deactiveren"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:375
+msgid "Activate license"
+msgstr "Licentie activeren"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:376
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:388
+msgid "License status is unknown."
+msgstr "Status licentie is onbekend."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:377
+msgid "Renew?"
+msgstr "Vernieuwen?"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:378
+msgid "unlimited"
+msgstr "onbeperkt"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:379
+msgid "License key is active."
+msgstr "Licentiesleutel is actief."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:380
+#, php-format
+msgid "Expires %s."
+msgstr "Verloopt %s."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:381
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr "Je hebt %1$s van de %2$s sites geactiveerd."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:382
+#, php-format
+msgid "License key expired %s."
+msgstr ""
+"Licentiesleutel is verlopen\n"
+" %s."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:383
+msgid "License key has expired."
+msgstr "Licentiesleutel is verlopen."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:384
+msgid "License keys do not match."
+msgstr "Licentiesleutels komen niet overeen."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:385
+msgid "License is inactive."
+msgstr "Licentie is niet actief."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:386
+msgid "License key is disabled."
+msgstr "Licentiesleutel is gedeactiveerd."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:387
+msgid "Site is inactive."
+msgstr "Site is niet actief."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:389
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+"Als je dit theme bijwerkt, zul je alle gemaakte aanpassingen kwijtraken. "
+"'Afbreken' om te stoppen, 'OK' om bij te werken."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:390
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
+"a>."
+msgstr ""
+"<strong>%1$s %2$s</strong> is beschikbaar. <a href=\"%3$s\" class=\"thickbox"
+"\" title=\"%4s\">Kijk wat er vernieuwd is</a> of <a href=\"%5$s\"%6$s>nu "
+"bijwerken</a>."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-customizer.php:33
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-meta-box.php:36
+msgid "More options"
+msgstr "Meer opties"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-select-pages.php:30
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-select-posts.php:38
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-select-posts.php:112
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-select-categories.php:37
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-select-categories.php:104
+msgid "Select"
+msgstr "Selecteer"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option.php:43
+#, php-format
+msgid "Option type or extended class %s does not exist."
+msgstr "Optietype of uitgebreide class %s bestaat niet."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-ajax-button.php:29
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-ajax-button.php:32
+msgid "Security check failed, please refresh the page and try again."
+msgstr "Beveiligingscontrole mislukt, ververs de pagina en probeer opnieuw."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-ajax-button.php:86
+msgid "Something went wrong"
+msgstr "Er ging iets mis"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-ajax-button.php:91
+msgid "Click me"
+msgstr "Klik me"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-ajax-button.php:96
+msgid "Please wait..."
+msgstr "Een ogenblik geduld s.v.p. ..."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-admin-page.php:114
+msgid ""
+"<em>Options Page Created with <a href='http://titanframework.net?"
+"utm_source=admin&utm_medium=admin footer'>Titan Framework</a></em>"
+msgstr ""
+"<em>Optiepagina gemaakt met <a href='http://titanframework.net?"
+"utm_source=admin&utm_medium=admin footer'>Titan Framework</a></em>"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-admin-page.php:325
+msgid "Settings saved."
+msgstr "Instellingen opgeslagen."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-admin-page.php:327
+msgid "Settings reset to default."
+msgstr "Instellingen teruggezet naar standaard."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/mailbox-helpers.php:746
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:68
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr "<strong>FOUT</strong>: vul een gebruikersnaam in."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/mailbox-helpers.php:748
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:71
+msgid ""
+"<strong>ERROR</strong>: This username is invalid because it uses illegal "
+"characters. Please enter a valid username."
+msgstr ""
+"<strong>FOUT</strong>: deze gebruikersnaam is ongeldig omdat het niet-"
+"toegestande karakters bevat. Vul een geldige gebruikersnaam in."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/mailbox-helpers.php:751
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:75
+msgid ""
+"<strong>ERROR</strong>: This username is already registered. Please choose "
+"another one."
+msgstr ""
+"<strong>FOUT</strong>: deze gebruikersnaam is al geregistreerd. Kies een "
+"andere s.v.p."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/mailbox-helpers.php:756
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:80
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr "<strong>FOUT</strong>: vul een e-mailadres in."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/mailbox-helpers.php:758
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:82
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr "<strong>FOUT</strong>: het e-mailadres is niet correct."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/mailbox-helpers.php:761
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:86
+msgid ""
+"<strong>ERROR</strong>: This email is already registered, please choose "
+"another one."
+msgstr ""
+"<strong>FOUT</strong>: dat e-mailadres is al geregistreerd, kies een andere "
+"s.v.p."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/mailbox-helpers.php:801
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:101
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: Couldn&#8217;t register you&hellip; please contact "
+"the <a href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+"<strong>FOUT</strong>: je registratie kon niet verwerkt worden, neem contact "
+"op met de <a href=\"mailto:%s\">webmaster</a> !"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:311
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Ticket.php:237
+msgid "Required field(s) is empty"
+msgstr "Verplichte veld(en) is(zijn) leeg"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:317
+msgid "Email is not a valid"
+msgstr "E-mailadres is niet geldig"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:466
+msgid "None"
+msgstr "Geen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:617
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:632
+msgid "Month"
+msgstr "Maand"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:623
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:638
+#, php-format
+msgid "%1$s-%2$s"
+msgstr "%1$s-%2$s"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:627
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:642
+msgid "Day"
+msgstr "DAg"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:628
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:643
+msgid "Year"
+msgstr "Jaar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:629
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:644
+msgid "Hour"
+msgstr "Uur"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:630
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:645
+msgid "Minute"
+msgstr "Minuut"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:653
+#, php-format
+msgid "%1$s %2$s, %3$s"
+msgstr "%1$s %2$s, %3$s"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:679
+msgid "OK"
+msgstr "OK"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:680
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:73
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:85
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:112
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:146
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:173
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-published.php:164
+msgid "Cancel"
+msgstr "Afbreken"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/template-helpers.php:143
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details-agent.php:107
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details.php:100
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:42
+msgid "Open"
+msgstr "Open"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/template-helpers.php:177
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:342
+msgid "&lt;&lt;Me&gt;&gt;"
+msgstr "&lt;&lt;Ik&gt;&gt;"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/template-helpers.php:228
+msgid "Please select"
+msgstr "Maak een keuze s.v.p."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/ticket-helpers.php:412
+msgid "All data"
+msgstr "Alle gegevens"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/ticket-helpers.php:412
+msgid "Private notes"
+msgstr "Privé opmerkingen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/ticket-helpers.php:412
+msgid "History"
+msgstr "Geschiedenis"
+
+# 'replies': plural noun or verb?
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/ticket-helpers.php:412
+msgid "Contact replies"
+msgstr "Contactpersoon antwoordt"
+
+# 'replies': plural noun or verb?
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/ticket-helpers.php:412
+msgid "Agent replies"
+msgstr "Agent antwoordt"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/ticket-helpers.php:572
+msgid "An error occured try again later"
+msgstr "Er heeft zich een fout voorgedaan, probeer het later nog eens"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/ticket-helpers.php:611
+msgid "An error has occurred during the file upload"
+msgstr "Er heeft zich een fout voorgedaan tijdens het uploaden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/ticket-helpers.php:634
+msgid ""
+"<p><b>Message sent!</b><br> We just got your request! And do our best to "
+"answer emails as soon as possible</p>"
+msgstr ""
+"<p><b>Bericht verzonden!</b><br> We hebben net je verzoek binnengekregen en "
+"gaan ons best doen zo snel mogelijk te reageren.</p>"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Settings_Page.php:33
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Settings_Page.php:77
+msgid "Helpdesk settings"
+msgstr "Instellingen helpdesk"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Settings_Page.php:33
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Settings_Page.php:76
+msgid "Settings"
+msgstr "Instellingen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Help_Catcher.php:40
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:106
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:153
+msgid "What we can help you with?"
+msgstr "Waarmee kunnen we je helpen?"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Help_Catcher.php:48
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:114
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:161
+msgid ""
+"<p><b>Message sent!</b><br /> We just got your request! And do our best to "
+"answer emails as soon as possible</p>"
+msgstr ""
+"<p><b>Bericht verzonden!</b><br> We hebben net je verzoek binnengekregen en "
+"gaan ons best doen zo snel mogelijk te reageren.</p>"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:256
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-published.php:110
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:42
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:70
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:92
+msgid "Status"
+msgstr "Status"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:257
+msgid "#"
+msgstr "#"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:258
+msgid "Title"
+msgstr "Titel"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:259
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-published.php:125
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:66
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:157
+msgid "Tags"
+msgstr "Tags"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:261
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:39
+msgid "Ticket"
+msgstr "Ticket"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:262
+msgid "Author"
+msgstr "Auteur"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:263
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-published.php:100
+msgid "Assignee"
+msgstr "Toegewezen aan"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:264
+msgid "Create Date"
+msgstr "Aanmaakdatum"
+
+# Noun or verb?
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:700
+msgid "Export"
+msgstr "Exporteren"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:735
+msgid "Are you sure you want to delete this comment?"
+msgstr "Weet je zeker dat je deze reactie wilt verwijderen?"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:736
+msgid "This ticket spam? Comments and contact will be deleted."
+msgstr ""
+"Is dit ticket spam? Reacties en contactpersoon zullen worden verwijderd."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:737
+msgid ""
+"No instance of TinyMCE found. Please use wp_editor on this page at least "
+"once: http://codex.wordpress.org/Function_Reference/wp_editor"
+msgstr ""
+"Geen installatie van TinyMCE gevonden. Gebruik op deze pagina wp_editor op "
+"z'n minst een keer: http://codex.wordpress.org/Function_Reference/wp_editor"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:739
+msgid "You can't submit an empty comment"
+msgstr "Je kunt geen lege reactie plaatsen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:740
+msgid "You can't save an empty comment"
+msgstr "Je kunt geen lege reactie bewaren"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:741
+msgid "Wrong email"
+msgstr "E-mailadres onjuist"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:742
+msgid "You can't add an empty field name"
+msgstr "Je kunt geen lege veldnaam toevoegen"
+
+# verb or noun? context?
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:743
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-published.php:115
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Admin_Ticket_Layout.php:152
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:71
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:88
+msgid "Contact"
+msgstr "Contactpersoon"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:744
+msgid "Select contact"
+msgstr "Selecteer contactpersoon"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:745
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:49
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:79
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:140
+msgid "Add new contact"
+msgstr "Nieuw contactpersoon toevoegen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:746
+msgid "Please select contact"
+msgstr "Selecteer contactpersoon s.v.p."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:747
+msgid "Cc and Bcc options available only if \"Reply To\" address specified"
+msgstr ""
+"CC en BCC opties zijn alleen beschikbaar indien het \"Beantwoord aan\" adres "
+"is opgegeven"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:958
+msgid "Get help!"
+msgstr "Zoek hulp!"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1038
+msgid "StudioTG Helpdesk Welcome page"
+msgstr "StudioTG Helpdesk welkomstpagina"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1038
+msgid "Welcome"
+msgstr "Welkom"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1052
+msgid "StudioTG Helpdesk Wizard page"
+msgstr "StudioTG Helpdesk assistentpagina"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1052
+msgid "Wizard"
+msgstr "Assistent"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1059
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-pro-version.php:15
+msgid "Pro-version"
+msgstr "Pro-versie"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1073
+msgid "My tickets"
+msgstr "Mijn tickets"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1157
+msgid ""
+"See also: <a href=\"https://support.google.com/accounts/answer/6009563\" "
+"target=\"_blank\">https://support.google.com/accounts/answer/6009563</a>"
+msgstr ""
+"Zie ook: <a href=\"https://support.google.com/accounts/answer/6009563\" "
+"target=\"_blank\">https://support.google.com/accounts/answer/6009563</a>"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1176
+msgid "No new messages for processing"
+msgstr "Geen nieuwe berichten te verwerken"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1182
+msgid "Can not connect to the server. Please, check your setting."
+msgstr "Kan geen verbinding met de server maken. Controleer je instellingen."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1196
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Ticket.php:296
+msgid ""
+"Thank you for contacting us. Your message has been successfully sent. We "
+"will contact you very soon!"
+msgstr ""
+"Bedankt dat je contact met ons hebt opgenomen. Je bericht is verzonden. We "
+"zullen zo snel mogelijk contact met je opnemen."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1199
+msgid "An error occurred when send message."
+msgstr "Er heeft zich een fout voorgedaan bij het verzenden van het bericht."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1213
+msgid "Check connection from Tickets"
+msgstr "Controleer verbinding van tickets"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1214
+msgid "Connection successful!"
+msgstr "Verbinding in orde!"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1249
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1257
+#, php-format
+msgid "<a href=\"%s\" "
+msgstr "<a href=\"%s\" "
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1283
+#, php-format
+msgid ""
+"If you like <b>Catchers Helpdesk</b> please leave us a <a id=\"stg-rating-"
+"anchor\" data-msg-click=\"%s\" target=\"_blank\" href=\"%s\">&#9733;&#9733;"
+"&#9733;&#9733;&#9733;</a> rating. A huge thank you from Catchers in advance!"
+msgstr ""
+"Als je blij bent met <b>Catchers Helpdesk</b>, waardeer ons dan met <a id="
+"\"stg-rating-anchor\" data-msg-click=\"%s\" target=\"_blank\" href=\"%s"
+"\">&#9733;&#9733;&#9733;&#9733;&#9733;</a>. Alvast heel erg bedankt namens "
+"Catchers!"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1283
+msgid "Thanks!"
+msgstr "Bedankt!"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1285
+msgid "Thank you for using our plugin!"
+msgstr "Bedankt dat je onze plugin gebruikt!"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/notify-agent.php:21
+msgid "Not send"
+msgstr "Niet verzonden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/notify-agent.php:27
+msgid "Notify contact"
+msgstr "Stel contact op de hoogte"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/notify-agent.php:33
+msgid "Send to contact"
+msgstr "Stuur naar contact"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments.php:103
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-published.php:53
+#, php-format
+msgid "%s ago"
+msgstr "%s geleden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:41
+msgid "Contact:"
+msgstr "Contact:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:44
+msgid "Enter 3 or more characters"
+msgstr "Vul 3 of meer tekens in"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:51
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-form.php:58
+msgid "Cc/Bcc"
+msgstr "Cc/Bcc"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:59
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:98
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:159
+msgid "Name:"
+msgstr "Naam:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:64
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:103
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:164
+msgid "Email:"
+msgstr "E-mail:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:75
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:114
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:175
+msgid "Add"
+msgstr "Voeg toe"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:83
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-form.php:65
+msgid "Cc:"
+msgstr "Cc:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:88
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-form.php:70
+msgid "Bcc:"
+msgstr "Bcc:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:127
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details-agent.php:27
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-form.php:127
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details.php:27
+msgid "Status:"
+msgstr "Status:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:135
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-form.php:135
+msgid "Assigned:"
+msgstr "Toegewezen:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:147
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:58
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Admin_Ticket_Layout.php:121
+msgid "Add new ticket"
+msgstr "Voeg nieuw ticket toe"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:158
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-form.php:157
+msgid "Ticket is closed"
+msgstr "Ticket is gesloten"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:161
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-form.php:160
+msgid ""
+"This ticket has been closed. If you want to write a new comment to this "
+"ticket, you need to re-open it first."
+msgstr ""
+"Dit ticket is gesloten. Indien je een nieuwe reactie aan dit ticket wilt "
+"toevoegen, moet je het eerst heropenen."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:168
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-form.php:167
+msgid "Sorry, you don't have sufficient permissions to add comments."
+msgstr "Je hebt niet voldoende rechten om reacties toe te voegen."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:37
+msgid "at"
+msgstr "op"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:65
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:126
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details-agent.php:32
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details-agent.php:53
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details-agent.php:67
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details-agent.php:82
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/custom_fields.php:61
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/custom_fields_default.php:57
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details.php:32
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details.php:53
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details.php:75
+msgid "Change"
+msgstr "Wijzigen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:87
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:148
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details-agent.php:101
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details.php:94
+msgid "Update"
+msgstr "Bijwerken"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:121
+msgid "User not found"
+msgstr "Gebruiker niet gevonden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details-agent.php:48
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details.php:48
+msgid "Category:"
+msgstr "Categorie:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details-agent.php:63
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details.php:63
+msgid "Date:"
+msgstr "Datum:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details-agent.php:76
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details.php:69
+msgid "Assigned to:"
+msgstr "Toegewezen aan:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details-agent.php:114
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details.php:107
+msgid "Re-open"
+msgstr "Heropen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-form.php:31
+msgid "This function is available in a PRO version"
+msgstr "Deze functie is alleen beschikbaar in de PRO-versie"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-form.php:35
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:740
+msgid "Reply"
+msgstr "Beantwoorden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-form.php:36
+msgid "Private note"
+msgstr "Privé notitie"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-form.php:52
+msgid "Reply To:"
+msgstr "Beantwoorden:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-form.php:146
+msgid "Send reply"
+msgstr "Antwoord versturen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/added-info.php:20
+msgid "agent"
+msgstr "behandelaar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/added-info.php:28
+msgid "Added:"
+msgstr "Toegevoegd:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/added-info.php:29
+#, php-format
+msgid "about %s ago by"
+msgstr "ongeveer %s geleden door"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/added-info.php:34
+#, php-format
+msgid "via %s"
+msgstr "via %s"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/integrations.php:18
+msgid "Integrations"
+msgstr "Integraties"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/integrations.php:22
+msgid "Google reCAPTCHA, "
+msgstr "Google reCAPTCHA, "
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/integrations.php:25
+msgid "Site key"
+msgstr "Sitesleutel"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/integrations.php:30
+msgid "Secret key"
+msgstr "Geheime sleutel"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/integrations.php:36
+msgid "Language settings, see more about "
+msgstr "Taalinstellingen, zie meer over"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/integrations.php:36
+msgid "language codes"
+msgstr "taalcodes"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/integrations.php:39
+msgid "Language code"
+msgstr "Taalcode"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/integrations.php:46
+msgid "Plugin update"
+msgstr "Plugin-update"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/integrations.php:49
+msgid "Envato Personal Token"
+msgstr "Envato persoonlijk token"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/integrations.php:54
+msgid "Plugin license"
+msgstr "Pluginlicentie"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-fileupload.php:8
+msgid "File upload"
+msgstr "Bestand uploaden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-fileupload.php:18
+msgid "Maximum files"
+msgstr "Maximum bestanden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-fileupload.php:22
+msgid "How many files can a user attach to a ticket?"
+msgstr "Hoe veel bestanden kan een gebruiker aan een ticket toevoegen?"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-fileupload.php:25
+msgid "Allowed types"
+msgstr "Toegestane types"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-fileupload.php:29
+msgid ""
+"Which file types do you allow your users to attach uncompressed? Other files "
+"will be converted zip. <br> (Option is also used for file through the mail "
+"server)"
+msgstr ""
+"Welke bestandstypen mogen gebruikers ongecomprimeerd bijvoegen? Andere "
+"bestanden zullen worden geconverteerd naar .zip. <br> (Optie wordt ook "
+"gebruikt voor bestand via de mailserver)"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:12
+msgid "Outgoing mail"
+msgstr "Uitgaande mail"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:16
+msgid "From"
+msgstr "Van"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:19
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:41
+msgid "From  e-mail"
+msgstr "Van e-mailadres"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:25
+msgid "From name*"
+msgstr "Van name*"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:32
+msgid "Advanced settings"
+msgstr "Geavanceerde instellingen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:35
+msgid "Set smtp settings"
+msgstr "SMTP instellingen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:48
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:70
+msgid "Host*"
+msgstr "Host*"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:55
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:43
+msgid "Username*"
+msgstr "Gebruikersnaam*"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:61
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:50
+msgid "Password*"
+msgstr "Wachtwoord*"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:68
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:76
+msgid "Encryption*"
+msgstr "Versleuteling*"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:76
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:83
+msgid "Port*"
+msgstr "Poort*"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:80
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:86
+msgid "Default ports"
+msgstr "Standaard poorten"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:85
+msgid "Send a test e-mail"
+msgstr "Stuur een test e-mail"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:88
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:436
+msgid "E-mail"
+msgstr "E-mail"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:92
+msgid "Enter e-mail address to send the test letter (save first)"
+msgstr ""
+"Vul eerst het e-mailadres in voordat je een testbericht kunt versturen "
+"(eerst bewaren)"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:95
+msgid "Send test e-mail"
+msgstr "Stuur een test e-mail"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:98
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-gethelp.php:35
+msgid "Send"
+msgstr "Versturen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:99
+msgid "Save changes first"
+msgstr "Sla wijzigingen eerst op"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:100
+msgid "Message sent successfully"
+msgstr "Bericht succesvol verzonden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:101
+msgid "Error. Message not sent"
+msgstr "Fout. Bericht niet verzonden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:14
+msgid "Incoming mail"
+msgstr "Inkomende e-mail"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:18
+msgid "Mail check interval"
+msgstr "Controleer  e-mail"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:22
+msgid "every minute"
+msgstr "elke minuut"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:23
+msgid "every five minutes"
+msgstr "elke vijf minuten"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:24
+msgid "every fifteen minutes"
+msgstr "elke vijftien minuten"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:25
+msgid "every thirty minutes"
+msgstr "elke 30 minuten"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:26
+msgid "every hour"
+msgstr "elk uur"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:27
+msgid "never"
+msgstr "nooit"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:32
+msgid "Truncate emails after this line"
+msgstr "Breek e-mails na deze regel af"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:35
+msgid "Please type your reply above this line"
+msgstr "Schrijf je antwoord boven deze regel s.v.p."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:46
+msgid "e-mail address for auto-reply and notification"
+msgstr "e-mailadres voor automatisch beantwoorden en notificaties"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:57
+msgid "Protocol*"
+msgstr "Protocol*"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:112
+msgid "Check configuration"
+msgstr "Controleer configuratie"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:114
+msgid "Check"
+msgstr "Controleer"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:116
+msgid "Test your configuration (save first)"
+msgstr "Test je configuratie (eerst bewaren)"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:120
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:122
+msgid "Get mails"
+msgstr "Haal e-mails op"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:9
+msgid "General"
+msgstr "Algemeen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:12
+msgid "Default assignee"
+msgstr "Standaard toegewezen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:15
+msgid "New tickets will be automatically assigned to that person"
+msgstr "Nieuwe tickets worden automatisch aan die persoon toegewezen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:20
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:94
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:141
+msgid "File Upload Configuration"
+msgstr "Configuratie bestanden uploaden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:24
+msgid ""
+"Do you want to allow your users to upload attachments? <br> (Option is also "
+"used for file send through the mail server)"
+msgstr ""
+"Wil je je gebruikers toestaan bestanden te uploaden?<br>(Optie wordt ook "
+"gebruikt voor het versturen van bestanden via de mailserver)"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:27
+msgid "Tracking"
+msgstr "Volgen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:31
+msgid "Open tracking"
+msgstr "Volgen openen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:35
+msgid "Enable open tracking"
+msgstr "Open volgen activeren"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:38
+msgid "Auto reply"
+msgstr "Automatisch beantwoorden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:46
+msgid "Enable auto reply"
+msgstr "Automatisch beantwoorden activeren"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:50
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-gethelp.php:32
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:438
+msgid "Message"
+msgstr " Bericht"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:54
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Activator.php:74
+msgid ""
+"<br /><p>Hello, <br /> We just got your help request! And do our best to "
+"answer emails as soon as possible, with most inquiries receiving a response "
+"within about a day.</p>"
+msgstr ""
+"<br /><p>Hallo, <br /> We hebben zojuist je verzoek ontvangen. We doen ons "
+"best om e-mails zo snel mogelijk te beantwoorden, waarbij de meeste vragen "
+"binnen ongeveer een dag beantwoord worden.</p>"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:69
+msgid "Email footer"
+msgstr "E-mail voettekst"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:73
+msgid "Footer content"
+msgstr "Inhoud voettekst"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:82
+msgid "Plugin pages"
+msgstr "Plug-in pagina's"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:86
+msgid "Create plugin pages"
+msgstr "Creëer plug-in pagina's"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:88
+msgid "Create"
+msgstr "Creëer"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-email.php:13
+msgid "Notifications"
+msgstr "Notificaties"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-email.php:17
+msgid "Ticket subject"
+msgstr "Ticket onderwerp"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-email.php:20
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Email.php:435
+msgid "Re: {ticket_title}"
+msgstr "Re: {ticket_title}"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-email.php:21
+msgid "Each e-mail notification will have this subject."
+msgstr "Elke e-mailnotificatie zal dit onderwerp hebben."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-email.php:26
+msgid "Agent notifications"
+msgstr "Behandelaarnotificaties"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-email.php:30
+msgid "New reply from client"
+msgstr "Nieuw antwoord van cliënt"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-email.php:31
+msgid "Ticket assigned to agent"
+msgstr "Ticket aan behandelaar toegewezen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-email.php:38
+msgid "Add a  ticket link to notification letter"
+msgstr "Voeg een ticketlink toe aan notificatiebericht"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-contactform.php:15
+msgid "Contact form"
+msgstr "Contactformulier"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-contactform.php:18
+msgid "Contact form fields"
+msgstr "Velden contactformulier"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-contactform.php:22
+msgid "Ticket Category"
+msgstr "Ticketcategorie"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-gethelp.php:14
+msgid "Get help"
+msgstr "Hulp halen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-gethelp.php:23
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:435
+msgid "Name"
+msgstr "Naam"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:17
+msgid "Select fields"
+msgstr "Selecteer velden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:18
+msgid "Required field"
+msgstr "Verplicht veld"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:19
+msgid "not found"
+msgstr "niet gevonden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:63
+msgid "Ticket fields"
+msgstr "Ticketvelden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:67
+msgid "Subject (required field)"
+msgstr "Onderwerp (verplicht veld)"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:68
+msgid "Message (required field)"
+msgstr "Bericht (verplicht veld)"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:69
+msgid "Files"
+msgstr "Bestanden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:70
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:72
+msgid "Contact fields"
+msgstr "Contactvelden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:74
+msgid "Name (required field)"
+msgstr "Naam (verplicht veld)"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:75
+msgid "Email (required field)"
+msgstr "E-mail (verplicht veld)"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:77
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Admin_Ticket_Layout.php:190
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Admin_Ticket_Layout.php:197
+msgid "Custom fields"
+msgstr "Aangepaste velden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:18
+msgid "Select macros"
+msgstr "Secteer macro's"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:19
+msgid "Select saved reply"
+msgstr "Selecteer opgeslagen antwoord"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:27
+msgid "Customer"
+msgstr "Klant"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:29
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:35
+msgid "First Name"
+msgstr "Voornaam"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:30
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:36
+msgid "Last Name"
+msgstr "Achternaam"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:31
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:37
+msgid "Full Name"
+msgstr "Volledige naam"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:33
+msgid "Agent"
+msgstr "Agent"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:41
+msgid "Ticket Assigned"
+msgstr "Ticket toegewezen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:42
+msgid "Ticket ID"
+msgstr "Ticket ID"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:43
+msgid "Ticket Subject"
+msgstr "Ticket onderwerp"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:44
+msgid "Ticket Quoted Description"
+msgstr "Ticket aangehaald onderwerp"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:45
+msgid "Ticket History"
+msgstr "Ticketgeschiedenis"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:46
+msgid "Ticket Status"
+msgstr "Ticketstatus"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:47
+msgid "Ticket Public URL"
+msgstr "Ticket publieke URL"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:48
+msgid "Ticket Date"
+msgstr "Ticketdatum"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:72
+msgid "File uploading failed"
+msgstr "Uploaden bestand mislukt"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:100
+msgid "This post type is not supported"
+msgstr "Dit posttype wordt niet ondersteund"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:107
+msgid "File uploads are disabled"
+msgstr "Uploaden bestanden is niet geactiveerd"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:114
+msgid "You are trying to add the same files"
+msgstr "Je probeert hetzelfde bestand toe te voegen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:272
+msgid "The file you requested is not a valid attachment"
+msgstr "Het opgevraagde bestand is niet een geldige bijlage"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:276
+msgid "The attachment you requested is not attached to any ticket"
+msgstr "De opgevraagde bijlage is niet aan een ticket bijgevoegd"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:283
+msgid "You are not allowed to view this attachment"
+msgstr "Je hebt geen toestemming deze bijlage te bekijken"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:454
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr ""
+"Het geüploade bestand overschrijdt de upload_max_filesize  richtlijn in php."
+"ini"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:457
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form"
+msgstr ""
+"Het geüploade bestand overschrijdt de MAX_FILE_SIZE richtlijn zoals dat was "
+"ingesteld in het het HTML formulier"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:460
+msgid "The uploaded file was only partially uploaded"
+msgstr "Het geüploade bestand was slechts gedeeltelijk geüpload"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:463
+msgid "No file was uploaded"
+msgstr "Er was geen bestand geüpload"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:466
+msgid "Missing a temporary folder"
+msgstr "Een tijdelijke directory ontbreekt"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:469
+msgid "Failed to write file to disk"
+msgstr "Er kon niet naar de schijf geschreven worden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:472
+msgid "File upload stopped by extension"
+msgstr "Uploaden van bestand door extensie gestopt"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:475
+msgid "Unknown upload error"
+msgstr "Onbekende uploadfout"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Updater/Adapter/AdapterEnvato.php:53
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Updater/Adapter/AdapterEnvato.php:57
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Updater/Adapter/AdapterEnvato.php:84
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Updater/Adapter/AdapterEnvato.php:88
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Updater/Adapter/AdapterMycatchers.php:78
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Updater/Adapter/AdapterMycatchers.php:82
+msgid "An unknown API error occurred."
+msgstr "Er heeft zich een onbekende API fout voorgedaan"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Widget/Stg_Widget_Form.php:14
+msgid "Widget form support"
+msgstr "Ondersteuning widgetformulier"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Widget/Stg_Widget_Form.php:15
+msgid "A widget form support"
+msgstr "Een widgetformulierondersteuning"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Widget/Stg_Widget_Form.php:28
+msgid "Title:"
+msgstr "Titel:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:433
+msgid "Attach file"
+msgstr "Voeg bestand toe"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:441
+msgid "This field is required"
+msgstr "Dit veld is verplicht"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:442
+msgid "Please inter a valid email address"
+msgstr "Geef een geldig e-mail adres"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:462
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:473
+msgid "Custom Fields"
+msgstr "Aangepaste velden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:463
+msgid "Custom Field"
+msgstr "Aangepast veld"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:464
+msgid "Search Custom Fields"
+msgstr "Doorzoek aangepaste velden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:465
+msgid "All Custom Fields"
+msgstr "Alle aangepaste velden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:466
+msgid "Parent Custom Field"
+msgstr "Bovenliggend aangepast veld"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:467
+msgid "Parent Custom Field:"
+msgstr "Bovenliggend aangepast veld:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:468
+msgid "Edit Custom Field"
+msgstr "Aangepast veld bewerken"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:469
+msgid "View Custom Field"
+msgstr "Aangepast veld bekijken"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:470
+msgid "Update Custom Field"
+msgstr "Aangepast veld bewerken"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:471
+msgid "Add New Custom Field"
+msgstr "Nieuw aangepast veld toevoegen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:472
+msgid "New Custom Field Name"
+msgstr "Naam nieuw aangepast veld"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:499
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:521
+msgid "Type"
+msgstr "Type"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:536
+msgid "Required"
+msgstr "Verplicht"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:545
+msgid "Options"
+msgstr "Opties"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:548
+msgid "Add each value from new line"
+msgstr "Voeg elke waarde toe van nieuwe regel"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:554
+msgid "Default value"
+msgstr "Standaard waarde"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:562
+msgid "Format"
+msgstr "Formaat"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:570
+msgid "Container"
+msgstr "Container"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:657
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:668
+msgid "Contact Forms"
+msgstr "Contactformulieren"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:658
+msgid "Contact Form"
+msgstr "Contactformulier"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:659
+msgid "Search Contact Forms"
+msgstr "Zoek contactformulieren"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:660
+msgid "All Contact Forms"
+msgstr "Alle contactformulieren"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:661
+msgid "Parent Contact Form"
+msgstr "Bovenliggende contactformulier"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:662
+msgid "Parent Contact Form:"
+msgstr "Bovenliggende contactformulier:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:663
+msgid "Edit Contact Form"
+msgstr "Contactformulier bewerken"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:664
+msgid "View Contact Form"
+msgstr "Contactformulier bekijken"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:665
+msgid "Update Contact Form"
+msgstr "Contactformulier bewerken"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:666
+msgid "Add New Contact Form"
+msgstr "Nieuwe contactformulier toevoegen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:667
+msgid "New Contact Form Name"
+msgstr "Naam nieuwe contactformulier"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:741
+msgid "Search Replies"
+msgstr "Zoek antwoorden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:742
+msgid "All Replies"
+msgstr "Alle antwoorden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:743
+msgid "Parent Reply"
+msgstr "Bovenliggend antwoord"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:744
+msgid "Parent Reply:"
+msgstr "Bovenliggend antwoord:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:745
+msgid "Edit Reply"
+msgstr "Antwoord bewerken"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:746
+msgid "View Reply"
+msgstr "Antwoord bekijken"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:747
+msgid "Update Reply"
+msgstr "Antwoord bijwerken"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:748
+msgid "Add New Reply"
+msgstr "Nieuw antwoord toevoegen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:749
+msgid "New Reply Name"
+msgstr "Naam nieuw antwoord"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:750
+msgid "Saved Replies"
+msgstr "Bewaarde antwoorden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:778
+msgctxt "Taxonomy Description"
+msgid "Description"
+msgstr "Omschrijving"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:786
+msgid ""
+"The description is not prominent by default; however, some themes may show "
+"it."
+msgstr ""
+"De omschrijving is standaard niet prominent, maar sommige thema's kunnen het "
+"laten zien."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:799
+msgctxt "Taxonomy Description"
+msgid "Form Constructor"
+msgstr "Formuliergenerator"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:808
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Activator.php:236
+msgid "Helpdesk manager"
+msgstr "Helpdeskmanager"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Activator.php:237
+msgid "Helpdesk client"
+msgstr "Helpdeskcliënt"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type_Priority.php:10
+msgctxt "Ticket priority"
+msgid "Low"
+msgstr "Laag"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type_Priority.php:11
+msgctxt "Ticket priority"
+msgid "Normal"
+msgstr "Normaal"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type_Priority.php:12
+msgctxt "Ticket priority"
+msgid "High"
+msgstr "Hoog"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type_Priority.php:13
+msgctxt "Ticket priority"
+msgid "Urgent"
+msgstr "Urgent"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type_Priority.php:14
+msgctxt "Ticket priority"
+msgid "Immediately"
+msgstr "Direct"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type_Statuses.php:10
+msgctxt "Ticket status"
+msgid "Answered"
+msgstr "Beantwoord"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type_Statuses.php:11
+msgctxt "Ticket status"
+msgid "Not answered"
+msgstr "Onbeantwoord"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type_Statuses.php:12
+msgctxt "Ticket status"
+msgid "New"
+msgstr "Nieuw"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type_Statuses.php:13
+msgctxt "Ticket status"
+msgid "Closed"
+msgstr "Gesloten"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:52
+msgctxt "post type general name"
+msgid "Tickets"
+msgstr "Tickets"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:53
+msgctxt "post type singular name"
+msgid "Ticket"
+msgstr "Ticket"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:54
+msgctxt "admin menu"
+msgid "Tickets"
+msgstr "Tickets"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:55
+msgctxt "add new on admin bar"
+msgid "Ticket"
+msgstr "Ticket"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:57
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:60
+msgid "New ticket"
+msgstr "Nieuw ticket"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:61
+msgid "Edit ticket"
+msgstr "Ticket bewerken"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:62
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:239
+msgid "View ticket"
+msgstr "Ticket bekijken"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:63
+msgid "All tickets"
+msgstr "Alle tickets"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:64
+msgid "Search tickets"
+msgstr "Zoek tickets"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:65
+msgid "No tickets found."
+msgstr "Geen tickets gevonden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:116
+msgctxt "Taxonomy general name"
+msgid "Categories"
+msgstr "Categorieën"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:117
+msgctxt "Taxonomy singular name"
+msgid "Category"
+msgstr "Categorie"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:118
+msgid "Categories"
+msgstr "Categorieën"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:119
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:158
+msgid "All items"
+msgstr "Alle items"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:120
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:159
+msgid "Parent item"
+msgstr "Bovenliggend item"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:121
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:160
+msgid "Parent item:"
+msgstr "Bovenliggend item:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:122
+msgid "New category name"
+msgstr "Nieuwe categorienaam"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:123
+msgid "Add new category"
+msgstr "Nieuwe categorie toevoegen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:124
+msgid "Edit category"
+msgstr "Categorie bewerken"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:125
+msgid "Update category"
+msgstr "Categorie bijwerken"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:126
+msgid "View category"
+msgstr "Categorie bekijken"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:127
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:166
+msgid "Separate items with commas"
+msgstr "Scheid items met behulp van komma's"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:128
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:167
+msgid "Add or remove items"
+msgstr "Items toevoegen of verwijderen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:129
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:168
+msgid "Choose from the most used"
+msgstr "Kies uit de meest gebruikte"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:130
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:169
+msgid "Popular items"
+msgstr "Populaire items"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:131
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:170
+msgid "Search items"
+msgstr "Zoek items"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:133
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:172
+msgid "No items"
+msgstr "Geen items"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:134
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:173
+msgid "Items list"
+msgstr "Itemlijst"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:135
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:174
+msgid "Items list navigation"
+msgstr "Itemlijstnavigatie"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:155
+msgctxt "Taxonomy general name"
+msgid "Tags"
+msgstr "Tags"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:156
+msgctxt "Taxonomy singular name"
+msgid "Tag"
+msgstr "Tag"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:161
+msgid "New tag name"
+msgstr "Nieuwe tagnaam"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:162
+msgid "Add new tag"
+msgstr "Nieuwe tag toevoegen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:163
+msgid "Edit tag"
+msgstr "Tag bewerken"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:164
+msgid "Update tag"
+msgstr "Tag bijwerken"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:165
+msgid "View tag"
+msgstr "Tag bekijken"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:218
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:221
+msgid "Ticket updated."
+msgstr "Ticket bijgewerkt."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:219
+msgid "Custom field updated."
+msgstr "Aangepast veld bijgewerkt."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:220
+msgid "Custom field deleted."
+msgstr "Aangepast veld verwijderd."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:223
+#, php-format
+msgid "Ticket restored to revision from %s"
+msgstr "Ticket hersteld naar revisie van %s"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:225
+msgid "Ticket published."
+msgstr "Ticket gepubliceerd."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:226
+msgid "Ticket saved."
+msgstr "Ticket opgeslagen."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:227
+msgid "Ticket submitted."
+msgstr "Ticket ingediend."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:229
+#, php-format
+msgid "Ticket scheduled for: <strong>%1$s</strong>."
+msgstr "Ticekt gepland voor: <strong>%1$s</strong>."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:231
+msgid "M j, Y @ G:i"
+msgstr "d/m/Y - G:i"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:233
+msgid "Ticket draft updated."
+msgstr "Ticketconcept opgeslagen."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:246
+msgid "Preview ticket"
+msgstr "Ticket bekijken"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:84
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:131
+msgid "Help Catcher"
+msgstr "Help Catcher"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:87
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:134
+msgid "Enabled Help Catcher"
+msgstr "Help Catcher geactiveerd"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:98
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:145
+msgid "Do you want to allow your users to upload attachments in Help Catcher?"
+msgstr "Wil je gebruikers toestaan bestanden te uploaden in Help Catcher?"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:102
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:149
+msgid "Start conversation"
+msgstr "Begin conversatie"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:111
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:158
+msgid "Result message"
+msgstr "Resultaatbericht"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:120
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:167
+msgid "Button color"
+msgstr "Knopkleur"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:131
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:178
+msgid "Bottom right"
+msgstr "Onder rechts"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:132
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:179
+msgid "Bottom left"
+msgstr "Onder links"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:138
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:185
+msgid "Widget code"
+msgstr "Widgetcode"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:141
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:188
+msgid ""
+"Below code needs to add on page for widget activation (save changes first)"
+msgstr ""
+"Onderstaande code moet aan de pagina worden toegevoegd voor activatie van "
+"het widget (wijzigingen eerst opslaan)"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_MetaBoxes.php:451
+msgid "Change status"
+msgstr "Status wijzigen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_MetaBoxes.php:459
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:89
+msgid "Assigned to"
+msgstr "Toegewezen aan"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Admin_Ticket_Layout.php:91
+msgid "Reply to ticket"
+msgstr "Ticket beantwoorden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Admin_Ticket_Layout.php:133
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Admin_Ticket_Layout.php:140
+msgid "Details"
+msgstr "Details"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Admin_Ticket_Layout.php:160
+msgid "Sending options"
+msgstr "Verzendopties"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Admin_Ticket_Layout.php:180
+msgid "Previous conversations"
+msgstr "Vorige conversaties"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Admin_Ticket_Layout.php:211
+msgid ""
+"An error occurred while registering this metabox. Please contact the support."
+msgstr ""
+"Er heeft zich een fout voorgedaan bij het registreren van deze metabox. Neem "
+"contact op met support."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Admin_Ticket_Layout.php:218
+msgid ""
+"An error occured while loading this metabox. Please contact the support."
+msgstr ""
+"Er heeft zich een fout voorgedaan bij het laden van deze metabox. Neem "
+"contact op met support."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:46
+msgid "Answer"
+msgstr "Antwoord"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:69
+msgid "ID"
+msgstr "ID"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:72
+msgid "Conversation"
+msgstr "Conversatie"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:73
+msgid "Last update"
+msgstr "Laatste update"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:91
+msgid "Last reply"
+msgstr "Laatste antwoord"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:118
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:184
+msgid "Trash"
+msgstr "Prullenbak"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:247
+msgid "Assigned to: "
+msgstr "Toegewezen aan:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:280
+msgid "All categories"
+msgstr "Alle categorieën"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:300
+msgid "Show all companies"
+msgstr "Toon alle bedrijven"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Ticket.php:221
+msgid "reCAPTCHA failed"
+msgstr "reCAPTCHA mislukt"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Ticket.php:230
+msgid "Sign in before you can post a message. <a href=\""
+msgstr "Meld je eerst aan voordat je een bericht kunt plaatsen. <a href=\""
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Ticket.php:291
+msgid "An error occurred. Can`t add ticket"
+msgstr "Er heeft zich een fout voorgedaan. Ticket kan niet worden toegevoegd"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Ticket.php:308
+#, php-format
+msgid ""
+"Thank you for contacting us. Your message has been successfully sent. We "
+"will contact you very soon! Follow the news <a href=\"%s\">here.</a>"
+msgstr ""
+"Bedankt dat je contact met ons hebt opgenomen. Je bericht is verzonden en we "
+"zullen zo snel mogelijk contact met je opnemen. Volg het nieuws <a href=\"%s"
+"\">hier.</a>"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Ticket.php:484
+#, php-format
+msgid "changed from %1$s to %2$s"
+msgstr "gewijzigd van %1$s naar %2$s"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Ticket.php:486
+#, php-format
+msgid "set to %1$s "
+msgstr "gezet op %1$s "
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Ticket.php:488
+#, php-format
+msgid "deleted (<s> %1$s </s>)"
+msgstr "verwijderd (<s> %1$s </s>)"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_CommentsAjax.php:262
+msgid "View all conversations"
+msgstr "Bekijk alle conversaties"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_CommentsAjax.php:266
+msgid "No conversations"
+msgstr "Geen conversaties"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketCategory.php:25
+msgid "Assign agent"
+msgstr "Wijs behandelaar toe"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketComments.php:130
+msgid "Anonymous"
+msgstr "Anoniem"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketComments.php:150
+msgid ""
+"Something went wrong. We couldn&#039;t identify your ticket. Please try "
+"again."
+msgstr ""
+"Er is iets mis gegaan. We konden je ticket niet vaststellen. Probeer het nog "
+"eens."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketComments.php:207
+msgid "Your reply could not be submitted for an unknown reason."
+msgstr "Om onbekende redenen kon je antwoord niet worden verzonden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketComments.php:211
+msgid "Your reply has been submitted. Your agent will reply ASAP."
+msgstr ""
+"Je antwoord is verzonden. Je behandelaar neemt zo snel mogelijk contact met "
+"je op."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketComments.php:288
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketComments.php:289
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketComments.php:329
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketComments.php:330
+#, php-format
+msgid "Reply to ticket %s"
+msgstr "Ticket %s beantwoorden"

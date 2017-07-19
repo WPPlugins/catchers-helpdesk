@@ -1,0 +1,1161 @@
+.stgh_colored_status {
+    margin-right: 5px;
+    padding: 2px 5px 2px 5px;
+    font-size: 9px;
+    letter-spacing: 1px;
+    text-shadow: none;
+    font-weight: bold;
+    line-height: 0;
+    display: inline;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.stgh_new_color {
+    background: #0073AA;
+}
+
+.stgh_closed_color {
+    background: #D54E21;
+}
+
+.stgh_answered_color {
+    background: #26BD43;
+}
+
+.stgh_notanswered_color {
+    background: #E8BA2A;
+    white-space: nowrap;
+}
+
+.trash_color {
+    background: #000000;
+}
+
+.stgh-notify-metabox div{
+    line-height: 20px;
+    padding-bottom:5px;
+}
+
+#stgh-metabox-details-date-select{
+    padding-top:10px;
+}
+
+#stgh-metabox-details-date-select .timestamp-wrap input{
+    font-size: 10px;
+}
+
+#stgh-metabox-details-date-select .timestamp-wrap select{
+    font-size: 10px;
+    height: 21px;
+    margin-top: 1px;
+}
+
+.stgh-ticket-read::after {
+    content: "\25CF ";
+    color: rgb(33, 213, 52);
+}
+
+.stgh_customfield_metabox_edit .timestamp-wrap input{
+    font-size: 10px;
+}
+
+.stgh_customfield_metabox_edit .timestamp-wrap select{
+    font-size: 10px;
+    height: 21px;
+    margin-top: 1px;
+}
+
+
+#stgh-add-note-advert {
+    border: 1px solid red;
+    padding: 10px;
+    display: none;
+}
+.page-title-action {
+    display: none;
+}
+
+.stgh-agent-crm{
+    margin:0px !important;
+}
+
+.js .inside .postbox .toggle-indicator::before, .js .sidebar-name .sidebar-name-arrow::before {
+    content: "";
+    display: inline-block;
+    font: 400 20px/1 dashicons;
+    text-decoration: none !important;
+}
+
+.js .inside  .postbox.closed .handlediv .toggle-indicator::before {
+    content: "";
+}
+
+
+.stgh-comment-content blockquote {
+    font-style: italic;
+    border-left: 3px solid #e0e0e0;
+    padding-left: 0.6em;
+    margin-left: 2.4em;
+}
+
+.stgh_status_header {
+    border-radius: 2px;
+    color: #fff;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 10px;
+    margin-left: 12px;
+    padding: 4px 10px;
+    text-transform: uppercase;
+    vertical-align: middle;
+}
+
+.stgh-assign-select {
+    width: 140px;
+}
+
+.stgh-error-field {
+    border: 1px solid red !important;
+}
+
+#post-body-content {
+    margin-bottom: 0 !important;
+}
+
+.stgh-ticket-closed {
+    text-decoration: line-through !important;
+    color: #cccccc;
+}
+
+.dashicons-sos-stgh:before {
+    content: "\f468";
+}
+
+.stg_ticket-types-block {
+    word-break: break-all;
+}
+
+.stgh-comment-content p, .stgh-ticket-content p {
+    padding: 0;
+    margin: 5px 0 4px;
+    width: 100%;
+    word-wrap: break-word;
+    /*border-bottom: 1px solid #cccccc;*/
+}
+
+.stgh-tickets-loading-div {
+    text-align: center;
+}
+
+.stgh-tickets-loading-div img.stgh-tickets-loader {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.stgh-metabox {
+    padding: 6px 0 0;
+}
+
+.stgh-metabox-inner-item {
+    padding: 6px 0 8px;
+}
+
+.stgh-metabox-inner-item label:before {
+    color: #82878c;
+    display: inline-block;
+    font: 400 20px/1 dashicons;
+    left: -1px;
+    padding: 0 5px 0 0;
+    position: relative;
+    top: 0;
+    text-decoration: none !important;
+    vertical-align: top;
+}
+
+.stgh-related-tickets-ticket label[for="post-name"]:before {
+    content: '\f101';
+}
+
+.stgh-related-tickets-ticket-closed {
+    text-decoration: line-through;
+}
+
+.stgh-related-tickets-ticket-closed a {
+    color: #82878c;
+}
+
+.stgh-metabox-inner-item label {
+}
+
+.stgh-metabox-inner-item label a {
+    text-decoration: underline;
+}
+
+.stgh-ticketlist-filter {
+    float: left;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.stgh-metabox-details-item label[for="post-status"]:before {
+    content: '\f173';
+}
+
+.stgh-metabox-details-item label[for="post-category"]:before {
+    content: '\f318';
+}
+
+.stgh-metabox-details-item label[for="post-date"]:before {
+    content: '\f508';
+}
+
+.stgh-metabox-details-item label[for="post-assigned-to"]:before {
+    content: '\f110';
+}
+
+.stgh-metabox-details-item label[for="post-not-send"]:before {
+    /*content: '\f109';*/
+}
+
+.stgh-metabox-details-item label[for="post-notify"]:before {
+    /*content: '\f123';*/
+}
+
+.stgh-metabox-details-item label[for="post-send"]:before {
+    /*content: '\f128';*/
+}
+
+.stgh-metabox-details-item .stgh-ticket-details-item-selected {
+    font-weight: bold;
+}
+
+.stgh-metabox-details-item select {
+    vertical-align: top;
+    margin-top: -5px;
+}
+
+.major-publishing-actions {
+    background: #f5f5f5 none repeat scroll 0 0;
+    border-top: 1px solid #ddd;
+    clear: both;
+    padding: 10px;
+    margin: 0 -12px -12px;
+}
+
+.stgh-ticket-property {
+    width: 220px;
+}
+
+.stgh-ticket-property-block {
+    width: 250px;
+    margin: 0 15px 0;
+}
+
+.float-right {
+    float: right;
+}
+
+.stgh-ticket-crm-user {
+    display: block;
+}
+
+.stgh-ticket-crm-user-info img {
+    padding-bottom: 10px;
+    float: left;
+    margin-right: 10px;
+}
+
+.stgh-ticket-crm-user-info h3 {
+    padding: 0 0 8px !important;
+    margin-top: 0;
+    font-size: 14px;
+}
+
+.stgh-ticket-crm-user-info .title {
+    line-height: 1.4em;
+    font-size: 13px;
+    padding-right: 5px;
+}
+
+.stgh-ticket-crm-user-info .company-name {
+    font-weight: 600;
+}
+
+.stgh-ticket-crm-element {
+    padding: 6px 0 8px;
+}
+
+.stgh-ticket-crm-element label[for="user-email"]:before {
+    content: '\f466';
+}
+
+.stgh-ticket-crm-element label[for="user-phone"]:before {
+    content: '\f525';
+}
+
+.stgh-ticket-right-button {
+    text-align: right;
+    float: right;
+    line-height: 23px;
+}
+
+.stgh-reply-agent {
+    border-left: 5px solid #00a0d2;
+}
+
+.stgh-reply-history {
+    border-left: 5px solid #cccccc;
+}
+
+.stgh-reply-agent-to-other-person {
+    border-left: 5px solid #8000FF;
+}
+
+.stgh-reply-private {
+    border-left: 5px solid #d2b800;
+    background-color: #f9f9e6;
+}
+
+.stgh-ticket-comments {
+    border-bottom: 1px solid #eee;
+}
+
+.color-red {
+    color: #ff0000;
+}
+
+.stgh-ticket-controls {
+    visibility: hidden;
+}
+
+#stg_ticket_files_block {
+    padding: 10px 0 10px 1px;
+}
+
+.reply-to-field {
+    width: 95%;
+}
+
+#stgh-comments .inside {
+    width: 100%;
+    padding: 0 12px 0;
+}
+
+.stgh-comments-block {
+    clear: both;
+    margin-top: -6px;
+    width: 100%;
+    font-size: 14px;
+}
+
+.stgh-comment-block {
+    padding: 12px 0 10px;
+}
+
+.stgh-col-left {
+    width: 50px;
+    float: left;
+    margin: 0 20px;
+}
+
+.stgh-col-right {
+    margin-left: 90px;
+}
+
+#titlediv div.inside {
+    display: none;
+}
+
+#stgh-added-info .handlediv, #stgh-added-info .hndle {
+    display: none;
+    visibility: hidden;
+}
+
+#stgh-added-info {
+    background: #f1f1f1 none repeat scroll 0 0;
+    border: none;
+    box-shadow: none;
+    margin-bottom: 13px;
+}
+
+#stgh-added-info div.inside {
+    padding: 0 0 0 10px;
+    margin-top: 10px;
+}
+
+.stgh-form-panel {
+    border: 1px solid #dfdfdf;
+    padding: 10px;
+    margin-top: 3px;
+}
+
+#stgh-comment-form-block {
+    padding: 8px 0;
+}
+
+.ui-sortable-handle {
+    border-bottom: 1px solid #eee;
+}
+
+#stgh-comment-form-block ul {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+}
+
+.stgh-tabs {
+    display: inline;
+    line-height: 1.35em;
+    cursor: pointer;
+    padding: 5px 10px;
+    color: #0073aa;
+}
+
+.stgh-active-tab {
+    border-top: 1px solid #dfdfdf;
+    border-left: 1px solid #dfdfdf;
+    border-right: 1px solid #dfdfdf;
+    background-color: #FFFFFF;
+    color: #444;
+}
+
+.stgh_comment_to, .stgh_comment_cc, .stgh_comment_bcc {
+    color: #777777;
+    margin-left: 4px;
+}
+
+#stgh_ticket_crm .button {
+    height: 30px;
+}
+
+.stgh-ticket-select-form {
+    margin: 10px 0 20px;
+}
+
+#stgh-contact-crm-autocomplete {
+    margin-bottom: 8px;
+}
+
+#stgh-crm-new-contact {
+    margin-left: 5px;
+}
+
+#stgh-crm-new-contact .major-publishing-actions {
+    margin: 0 -12px -12px -17px;
+}
+
+.stgh-crm-new-contact-form {
+    margin-bottom: 20px;
+}
+
+/*ADMIN TABLE*/
+.post-type-stgh_ticket table.wp-list-table tr td {
+    font-size: 13px;
+    line-height: 1.5em;
+    color: #555;
+    vertical-align: top;
+    padding: 8px 10px;
+}
+
+.post-type-stgh_ticket .column-stgh_ticket-subject a.title {
+    font-size: 14px;
+}
+
+@media (max-width: 782px) {
+    .column-stgh_ticket-subject,
+    .column-stgh_ticket-id,
+    .column-stgh_ticket-status,
+    .column-stgh_ticket-contact,
+    .column-stgh_ticket-lastReply {
+        display: none !important;
+        padding: 3px 8px 3px 35% !important;
+    }
+
+    .column-stgh_ticket-conversation .toggle-row:before {
+        left: -10px !important;
+    }
+}
+
+.post-type-stgh_ticket table .column-stgh_ticket-subject {
+    width: 30%;
+}
+
+.post-type-stgh_ticket table .column-stgh_ticket-assignedTo {
+    width: 10%;
+}
+
+.post-type-stgh_ticket table .column-stgh_ticket-id {
+    width: 8%;
+}
+
+.post-type-stgh_ticket table .column-stgh_ticket-status {
+    width: 15%;
+    min-width: 100px;
+}
+
+.post-type-stgh_ticket table .column-stgh_ticket-contact {
+    width: 20%;
+}
+
+.post-type-stgh_ticket table .column-stgh_ticket-conversation {
+    width: 50%;
+}
+
+.post-type-stgh_ticket table .column-stgh_ticket-lastReply {
+    width: 10%;
+}
+
+.post-type-stgh_ticket table .column-stgh_ticket-contact img {
+    float: left;
+}
+
+.post-type-stgh_ticket table .column-stgh_ticket-contact .contact-info {
+    padding-left: 42px;
+}
+
+.post-type-stgh_ticket table .column-stgh_ticket-contact .contact-info span.user-name {
+    font-weight: bold;
+}
+
+/*.post-type-stgh_ticket table .column-stgh_ticket-conversation .comments-count {
+    float: right;
+    background-color: #aaa;
+    width: 20px;
+    text-align: center;
+    color: white;
+}
+
+span */
+.stgh-comments-count {
+    float: right;
+    background-color: #aaa;
+    width: 20px;
+    text-align: center;
+    color: white;
+}
+
+table .column-stgh_ticket-conversation .tag-item {
+    padding: 2px 5px 2px 5px;
+    font-size: 9px;
+    text-transform: none;
+    letter-spacing: 1px;
+    margin-right: 5px;
+    text-shadow: none;
+    font-weight: bold;
+    line-height: 0;
+    display: inline;
+    background: #ccc;
+    color: #fff;
+}
+
+.post-type-stgh_ticket table .column-stgh_ticket-conversation .title {
+    font-weight: bold;
+}
+
+.post-type-stgh_ticket table .column-stgh_ticket-conversation p {
+    font-size: 12px;
+    color: #999;
+    margin-bottom: 0px;
+}
+
+.stgh-text-bold {
+    font-weight: bold;
+    vertical-align: top;
+}
+
+.stgh-gethelp {
+    width: 50%;
+}
+
+.stgh-gethelp div {
+    padding-bottom: 15px;
+}
+
+.stgh-gethelp input, .stgh-gethelp textarea {
+    width: 100%;
+}
+
+.stgh-gethelp textarea {
+    height: 150px;
+}
+
+.support-header {
+    font-size: 25px;
+}
+
+#stgh_submit_button {
+    float: right;
+}
+
+/* Wizard CSS*/
+.stgh_wiz_space {
+    background-color: white;
+    height: 100%;
+    margin: 5px 15px 2px;
+    padding: 20px;
+}
+
+.stgh_wiz_block {
+    border-radius: 5px;
+    border: 1px solid #eeeeee;
+    width: 50%;
+    margin: 20px auto;
+}
+
+.stgh_wiz_hidden {
+    display: none;
+}
+
+.stgh_logo {
+    width: 16%;
+    height: 80px;
+    margin: 20px auto;
+    background-image: url(../../images/logo_catcher-02.png);
+    background-size: cover;
+}
+
+.stgh_wiz_content {
+    padding: 70px 50px 10px 50px;
+    overflow: hidden;
+}
+
+.stgh_wiz_vault {
+    float: right;
+}
+
+.stgh_wiz_header {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.stgh_wiz_mainheader {
+    font-size: 23px;
+}
+
+.stgh_wiz_subheader {
+    font-size: 15px;
+    color: #555;
+    opacity: 0.6;
+}
+
+.stgh_wiz_hint, .stgh_wiz_text {
+    margin-top: 15px;
+    text-align: left;
+    color: #555;
+    opacity: 0.6;
+}
+
+.stgh_wiz_text {
+    opacity: 0.9;
+}
+
+.stgh_wiz_small {
+
+}
+
+.stgh_wiz_middle {
+    font-size: 16px;
+}
+
+.stgh_wiz_huge {
+    font-size: 20px;
+}
+
+.stgh_wiz_input {
+    width: 25em;
+}
+
+.stgh_wiz_next_button {
+    margin-right: 15px;
+}
+
+/* END Wizard*/
+
+/* Hide custom fields for bulk editor from table header in our posts edit page*/
+#stgh_assigned, .column-assigned {
+    display: none;
+}
+
+/* Bulk editor custom fields css*/
+.stgh_table_div {
+    display: table;
+}
+
+.stgh_table_row_div {
+    display: table-row;
+}
+
+.stgh_table_cell_div {
+    display: table-cell;
+    padding-right: 15px;
+}
+
+.stgh_table_cell_div select {
+    width: 80%;
+}
+
+/* End. Bulk editor custom fields css*/
+
+/* Pro-version page */
+.stgh_features_list {
+    padding: 10px 30px;
+}
+
+.stgh_features_list li {
+    padding: 10px;
+    font-size: 1.3em;
+    list-style-type: none;
+}
+
+.stgh_white_space {
+    background-color: white;
+    height: 100%;
+    padding: 0px 20px 40px 20px;
+}
+
+/* End. Pro-version page*/
+
+#stgh-to-cc-bcc {
+    padding: 0 13px 5px 2px;
+    border-bottom: 1px solid #eee;
+}
+
+.stgh-to-cc-bcc {
+    margin: 0;
+    padding: 3px 0 3px 90px;
+    padding-left: 90px;
+    min-height: 1.8em;
+    clear: left;
+}
+
+.stgh-label-to-cc-bcc {
+    vertical-align: middle;
+    font-weight: bold;
+    float: left;
+    text-align: right;
+    margin-left: -90px;
+    width: 80px;
+}
+
+.stgh-label-to-cc-bcc-input {
+    vertical-align: middle;
+    width: 92%;
+    margin-right: 10px;
+    color: #999;
+    cursor: pointer;
+}
+
+.stgh-ntabs {
+    padding: 9px 15px 28px 0 !important;
+}
+
+.stgh-ntab-active {
+    background: #FFFFFF;
+    border-bottom: 1px solid #ffffe6;
+    color: #555 !important;
+}
+
+.stgh-ntab {
+    cursor: pointer;
+
+    margin-bottom: -1px;
+    margin-left: 0.5em;
+
+    background: #FFFFFF;
+    padding: 5px 10px 5px 10px;
+    position: relative;
+    z-index: 1;
+    color: #000;
+    box-shadow: none;
+    float: left;
+    font-size: 14px;
+    line-height: 24px;
+
+    font-weight: 600;
+    border-top: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+}
+
+.stgh-private-note {
+    background: #FFFFE6 !important;
+}
+
+.stgh-ntab:focus, .stgh-ntab:hover {
+    color: #555 !important;
+}
+
+#stgh-comments-form > .ui-sortable-handle {
+    display: none;
+    visibility: hidden;
+}
+
+#stgh-comments-form {
+    background: #f1f1f1 none repeat scroll 0 0;
+    border: none;
+    box-shadow: none;
+}
+
+#stgh-comments-form-in div.inside {
+    background: #ffffff none repeat scroll 0 0;
+    margin: 5px 0 !important;
+}
+
+#stgh-comments-form div.inside {
+    padding: 0;
+}
+
+#stgh-comments-form-in {
+    padding: 0 0 0 10px;
+    margin-top: -6px;
+}
+
+#stgh-comments-form-in .major-publishing-actions {
+    border: 1px solid #dfdfdf;
+    margin: 0 -1px -5px -11px;
+    padding: 10px;
+}
+
+.stgh-cc-bcc {
+    margin: 0px;
+    padding: 3px 0px 3px 90px;
+    min-height: 1.8em;
+    clear: left;
+    display: none;
+}
+
+.stgh-cc-bcc label {
+    vertical-align: middle;
+    font-weight: bold;
+    float: left;
+    text-align: right;
+    margin-left: -90px;
+    width: 80px;
+}
+
+#stgh-cc, #stgh-bcc {
+    vertical-align: middle;
+    width: 100%;
+}
+
+#stgh-form-private {
+    display: none;
+}
+
+#stgh-form-private, #stgh-form-agent {
+    padding: 13px 12px 0px 2px;
+}
+
+/* end new edit-form ticket*/
+
+/**/
+
+/* Поле заголовок скрыто из списка тикетов, но нужно для Bulk Editor*/
+.column-title {
+    display: none !important;
+}
+
+#wp-stgh_savedreply_description-editor-tools > .select2 {
+    width: 220px !important;
+    float: left;
+}
+
+#wp-stgh_comment-editor-tools > .select2 {
+    width: 220px !important;
+    float: left;
+}
+
+.select2-selection {
+    border: 1px solid #ddd !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow b {
+    border-color: black transparent transparent !important;
+}
+
+.select2-dropdown--above {
+    border: 1px solid #ddd !important;
+    border-bottom: none !important;;
+}
+
+.select2-dropdown--below {
+    border: 1px solid #ddd !important;
+    border-top: none !important;;
+}
+
+#stgh_reply_to {
+    width: 85%;
+    display:none;
+}
+
+.yourclass {
+    width: 100px;
+}
+
+#stgh_stgh_email_footer_content_ifr, #stgh_content_auto_reply_ifr, #stgh_savedreply_description_ifr, #stgh_comment_ifr, #stgh_comment_private_ifr {
+    width: 1px !important;
+    min-width: 100% !important;
+}
+
+label[for="stgh-comments-hide"] {
+    display: none;
+}
+
+.stgh_propage_head{
+    padding-left:0px;
+    font-size: 1.4em;
+    border:none;
+    background:none;
+}
+
+#toggleCcBcc{
+    float: right;
+    cursor:pointer;
+}
+
+.stgh_margintop_2em{
+    margin-top: 2em;
+}
+
+.stgh_marginbottom_1em{
+    margin-bottom: 1em;
+}
+
+.stgh_margintop_2em h2
+{
+    margin: 0.5em 0 !important;
+    padding: 0 !important;
+    line-height: 100% !important;
+}
+
+.stgh_display_none{
+    display:none;
+}
+
+.stgh_ticket_crm_user_title{
+    float: left;
+    width: 76%
+}
+
+.stgh_loader_image{
+    height: 26px;
+    margin-left:10px
+}
+
+.stgh_gethelploader{
+    height: 26px;
+    margin-top:2px;
+    margin-right:10px;
+    width:5%;
+    float:right;
+}
+
+.stgh_width100pro{
+    width:100% !important;
+}
+
+.stgh_welcome_page_start, .stgh_welcome_page_skip, .stgh_welcome_page_create{
+    width:15%;
+    text-align: center;
+    float:left;
+    margin-right:20px !important;
+}
+
+.stgh_margintop_15{
+    margin-top:15px;
+}
+
+.stgh_wiz_sep1{
+    padding-top: 25px;
+    margin-bottom: 20px;
+    overflow:hidden;
+}
+
+.stgh_float_left{
+    float:left;
+}
+
+.stgh_related_header{
+    margin: 0.5em 0;
+    padding: 0;
+    line-height: 100%;
+}
+
+.stgh-right{
+    text-align: right;
+}
+
+.stgh_noshow{
+    display: none;
+}
+
+.stgh_addons {
+    background-color: #cccccc;
+    padding: 10px;
+}
+
+.stgh_addons_pro {
+    background-color: #ffffff;
+}
+
+.stgh_addons_pro h1, .stgh_addons_pro .button-primary {
+    margin-left: 10px;
+}
+
+.stgh_addons_pro .stgh_addon_item{
+    height: 350px;
+    text-align: center;
+}
+
+.stgh_addons_pro .stgh_addon_item_description{
+    padding: 45px 10px 0px;
+}
+
+
+.stgh_addon_item {
+    border: 1px solid #cccccc;
+    background-color: #efefef;
+    width: 300px;
+    /*padding: 10px;*/
+    margin: 10px;
+    /*box-shadow: 0 0 10px rgba(0,0,0,0.5);*/
+    float:left;
+}
+
+.stgh_addon_item_header {
+    font-size: 18px;
+    padding:15px;
+    font-weight: bold;
+    background-color: #ffffff;
+    height:80px;
+    position: relative;
+}
+
+.stgh_header_soon {
+    background-image: url('../../images/soon.svg');
+    background-position: top right;
+    background-repeat: no-repeat;
+}
+
+.stgh_header_best {
+    background-image: url('../../images/best.svg');
+    background-position: top right;
+    background-repeat: no-repeat;
+}
+
+.stgh_addon_item_description {
+    padding:15px;
+    border-top: 1px solid #cccccc;
+}
+
+.stgh_clear{
+    clear:both;
+    float: none;
+}
+
+.stgh_addon_item_footer {
+    text-align: left;
+    padding: 10px 0 25px 10px;
+}
+
+.stgh_addon_item_header_text{
+    padding:60px 0px 0px;
+}
+
+.stgh_addon_item_header_bg {
+    z-index: 0;
+    position: absolute;
+    background-image: url(../../images/wclogo.png);
+    background-position: 0 0;
+    background-size: 70%;
+    width: 100%;
+    height: 100%;
+    top: 10px;
+    left: 0px;
+    background-repeat: no-repeat;
+}
+
+.stgh_addon_item_header_bg_svp {
+    z-index: 0;
+    position: absolute;
+    background-image: url(../../images/saved-reply-pro.png);
+    background-position: 0 0;
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+    top: 10px;
+    left: 0px;
+    background-repeat: no-repeat;
+}
+
+.stgh_addon_item_header_bg_cfp {
+    z-index: 0;
+    position: absolute;
+    background-image: url(../../images/custom-fields-pro.png);
+    background-position: 0 0;
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+    top: 10px;
+    left: 0px;
+    background-repeat: no-repeat;
+}
+
+.stgh_addon_item_header_bg_pnp {
+    z-index: 0;
+    position: absolute;
+    background-image: url(../../images/private-notes-pro.png);
+    background-position: 0 0;
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+    top: 10px;
+    left: 0px;
+    background-repeat: no-repeat;
+}
+
+.stgh_addon_item_header_bg_ecf {
+    z-index: 0;
+    position: absolute;
+    background-image: url(../../images/embed-contact-form-pro.png);
+    background-position: 0 0;
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+    top: 10px;
+    left: 0px;
+    background-repeat: no-repeat;
+}
+
+.stgh_addon_item_header_bg_eft {
+    z-index: 0;
+    position: absolute;
+    background-image: url(../../images/email-footer-template-pro.png);
+    background-position: 0 0;
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+    top: 10px;
+    left: 0px;
+    background-repeat: no-repeat;
+}
+
+.stgh_addon_item_header_bg_tc {
+    z-index: 0;
+    position: absolute;
+    background-image: url(../../images/ticket-category-pro.png);
+    background-position: 0 0;
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+    top: 10px;
+    left: 0px;
+    background-repeat: no-repeat;
+}
+
+
+.stgh_wc_wrap h1{
+    padding:20px 0;
+}

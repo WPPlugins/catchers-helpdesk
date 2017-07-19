@@ -1,0 +1,2307 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-01 10:57+0300\n"
+"PO-Revision-Date: 2017-03-10 09:42+0300\n"
+"Last-Translator: MF <mphilatkin@gmail.com>\n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-upload-file-field.php:7
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-attachements-block.php:9
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Email.php:315
+msgid "Attachments"
+msgstr "Bifogade filer"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-all-tickets.php:8
+msgid "Your tickets"
+msgstr "Dina ärenden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-all-tickets.php:64
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:132
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:171
+msgid "Not found"
+msgstr "Hittades inte"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-all-tickets.php:70
+msgid "Open new ticket"
+msgstr "Skapa nytt ärende"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-ticket-form-by-id.php:55
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-ticket-form.php:54
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:408
+msgid "Submit"
+msgstr "Skicka"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-single-ticket.php:18
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-single-ticket.php:61
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments.php:103
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-published.php:53
+#, php-format
+msgid "%s ago"
+msgstr "%s tidigare"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-single-ticket.php:52
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/ticket-helpers.php:412
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:715
+msgid "Replies"
+msgstr "Svar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-single-ticket.php:72
+msgid "The ticket has been closed. "
+msgstr "Ärendet har stängts."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-single-ticket.php:78
+msgid "Write a reply"
+msgstr "Skriv ett svar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-single-ticket.php:85
+msgid "Type your reply here."
+msgstr "Fyll i ditt svar här."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-single-ticket.php:91
+#, fuzzy
+msgid "Please Wait..."
+msgstr "Vänligen vänta..."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-single-ticket.php:92
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-form.php:35
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:716
+msgid "Reply"
+msgstr "Svara"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-ticket-form.php:25
+msgid "Your name"
+msgstr "Ditt namn"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-ticket-form.php:31
+msgid "Email"
+msgstr "E-post"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-ticket-form.php:39
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:260
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-published.php:120
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:66
+msgid "Category"
+msgstr "Kategori"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-ticket-form.php:45
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-published.php:105
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-gethelp.php:29
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:413
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:87
+msgid "Subject"
+msgstr "Ämne"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/stg-ticket-form.php:48
+msgid "Description"
+msgstr "Beskrivning"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/reply_agent.php:12
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/ticket_open.php:21
+msgid "View ticket in your web browser "
+msgstr "Granska ärendet i din webbläsare"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/ticket_open.php:3
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/ticket_assign.php:5
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/ticket_accepted.php:6
+msgid "On "
+msgstr "På"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/ticket_open.php:4
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/ticket_assign.php:6
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/ticket_accepted.php:7
+msgid "wrote"
+msgstr "skrev"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/ticket_assign.php:1
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/ticket_accepted.php:1
+msgid "Hello"
+msgstr "Hej"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/ticket_assign.php:2
+msgid "Ticket has been assigned to you"
+msgstr "Du har fått ett nytt ärende tilldelat"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/ticket_accepted.php:3
+msgid ""
+"We just got your help request! And do our best to answer emails as soon as "
+"possible, with most inquiries receiving a response within about a day."
+msgstr ""
+"Toppen! Vi har precis tagit emot din fråga. \n"
+"Vi återkommer till dig så fort som möjligt, oftast inom en arbetsdag eller "
+"snabbare."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/ticket_accepted.php:23
+msgid "To track your email, we've tagged it with a ticket code"
+msgstr "För att spåra ditt mail, har vi märkt det med ärendenumret."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/reply_client.php:1
+msgid "User "
+msgstr "Användare"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/reply_client.php:3
+msgid "just replied to ticket"
+msgstr "har precis svarat på ärendet"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/public/template/mails/reply_client.php:23
+msgid ""
+"You have received this notification because you have either subscribed to "
+"it, or are involved in it."
+msgstr ""
+"Du har fått det här meddelandet eftersom du antingen har prenumererat på "
+"det, eller är involverad i frågan."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/titan-framework-checker.php:72
+msgid "Titan Framework needs to be installed."
+msgstr "Titan Framework måste installeras för att Affiliate PRO ska fungera."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/titan-framework-checker.php:75
+msgid "Click here to search for the plugin."
+msgstr "Klicka här för att söka efter pluginet."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/titan-framework-checker.php:82
+msgid "Titan Framework needs to be activated."
+msgstr "Titan Framework måste aktiveras för att Affiliate PRO ska fungera."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/titan-framework-checker.php:85
+msgid "Click here to go to the plugins page and activate it."
+msgstr "Klicka här för att gå till “Plugins” och aktivera det."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/titan-framework.php:170
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/titan-framework.php:174
+msgid "GitHub repo"
+msgstr "GitHub Repo"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/titan-framework.php:178
+msgid "Issue tracker"
+msgstr "Problem sökare"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:177
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+"En ny version av %1$s finns tillgänglig. <a target=”_blank” class=”trickbox” "
+"href=”%2$s”>Visa detaljer för version %3$s</a>."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:184
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+"\">update now</a>."
+msgstr ""
+"En ny version av %1$s finns tillgänglig. <a target=”_blank” class=”trickbox” "
+"href=”%2$s”>Visa detaljer för version %3$s</a>eller <a href=”%4$s”>uppdatera "
+"nu</a>."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:324
+msgid "You do not have permission to install plugin updates"
+msgstr "Du har inte behörighet att installera uppdateringar för tillägg"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/inc/edd-licensing/EDD_SL_Plugin_Updater.php:324
+msgid "Error"
+msgstr "Fel"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-titan-framework.php:158
+#, php-format
+msgid ""
+"All option IDs per namespace must be unique. The id %s has been used "
+"multiple times."
+msgstr ""
+"All option IDs per namespace must be unique. The id %s has been used "
+"multiple times."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-titan-framework.php:395
+#, php-format
+msgid "%s needs a %s parameter."
+msgstr "%s needs a %s parameter."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-titan-framework.php:405
+#, php-format
+msgid "Container of type %s, does not exist."
+msgstr "Behållare av typen %s, finns inte."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-enable.php:21
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-enable.php:100
+msgid "Enabled"
+msgstr "Aktiv"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-enable.php:24
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-enable.php:103
+msgid "Disabled"
+msgstr "Inaktiverad"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-multicheck-pages.php:27
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-multicheck-pages.php:48
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-select-pages.php:38
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-multicheck-posts.php:34
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-multicheck-posts.php:60
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-select-posts.php:46
+#, php-format
+msgid "Untitled %s"
+msgstr "Odöpt %s"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-save.php:21
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-published.php:158
+msgid "Save changes"
+msgstr "Spara ändringar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-save.php:24
+msgid "Reset to defaults"
+msgstr "Återställ standardinställningar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-save.php:27
+msgid "Are you sure you want to reset ALL options to their default values?"
+msgstr "Är du säker du vill återställa alla alternativ till standardvärdena?"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:370
+msgid "Theme license"
+msgstr "Tema licens"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:371
+msgid "Enter your theme license key."
+msgstr "Ange din tema licensnyckel."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:372
+msgid "License key"
+msgstr "Licensnyckel"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:373
+msgid "License action"
+msgstr "Licens åtgärder"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:374
+msgid "Deactivate license"
+msgstr "Inaktivera licens"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:375
+msgid "Activate license"
+msgstr "Aktivera licens"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:376
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:388
+msgid "License status is unknown."
+msgstr "Licens status är okänd."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:377
+msgid "Renew?"
+msgstr "Förnya?"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:378
+msgid "unlimited"
+msgstr "obegränsat"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:379
+msgid "License key is active."
+msgstr "Licensnyckeln är aktiv."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:380
+#, php-format
+msgid "Expires %s."
+msgstr "Löper ut %s"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:381
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr "Du har %1$s / %2$s platser aktiverade."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:382
+#, php-format
+msgid "License key expired %s."
+msgstr "Licensnyckeln har löpt ut %s."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:383
+msgid "License key has expired."
+msgstr "Licensnyckeln har löpt ut."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:384
+msgid "License keys do not match."
+msgstr "Licensnycklarna matchar inte varandra."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:385
+msgid "License is inactive."
+msgstr "Licensen är inaktiv."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:386
+msgid "License key is disabled."
+msgstr "Licensnyckeln är inaktiverad."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:387
+msgid "Site is inactive."
+msgstr "Platsen är inaktiv."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:389
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+"Om du uppdaterar detta tema kommer du att att förlora alla anpassade "
+"inställningar du har gjort. ”Avbryt” för att stoppa, ”OK” för att uppdatera."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-edd-license.php:390
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
+"a>."
+msgstr ""
+"<strong>%1$s %2$s</strong> finns. <a href=\"%3$s\" class=\"thickbox\" title="
+"\"%4s\">Kolla vad som är nytt</a> eller <a href=\"%5$s\" %6$s=\"\">Uppdatera "
+"nu</a>."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-customizer.php:33
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-meta-box.php:36
+msgid "More options"
+msgstr "Fler val"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-select-pages.php:30
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-select-posts.php:38
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-select-posts.php:112
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-select-categories.php:37
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-select-categories.php:104
+msgid "Select"
+msgstr "Välj"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option.php:43
+#, php-format
+msgid "Option type or extended class %s does not exist."
+msgstr "Alternativtyp eller utökad klass %s finns inte."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-ajax-button.php:29
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-ajax-button.php:32
+msgid "Security check failed, please refresh the page and try again."
+msgstr ""
+"Säkerhetskontrollera misslyckades, vänligen uppdatera sidan och försök igen."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-ajax-button.php:86
+msgid "Something went wrong"
+msgstr "Något gick fel"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-ajax-button.php:91
+msgid "Click me"
+msgstr "Klicka på mig"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-option-ajax-button.php:96
+msgid "Please wait..."
+msgstr "Vänligen vänta..."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-admin-page.php:114
+msgid ""
+"<em>Options Page Created with <a href='http://titanframework.net?"
+"utm_source=admin&utm_medium=admin footer'>Titan Framework</a></em>"
+msgstr ""
+"<em>Alternativ Sida Skapad med <a href='http://titanframework.net?"
+"utm_source=admin&utm_medium=admin footer'>Titan Framework</a></em>"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-admin-page.php:325
+msgid "Settings saved."
+msgstr "Inställningar Joolz"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/vendor/gambitph/titan-framework/lib/class-admin-page.php:327
+msgid "Settings reset to default."
+msgstr "Inställningar är återställda till standard."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/mailbox-helpers.php:746
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:68
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr "<strong>FEL:</strong> Vänligen ange ett användarnamn."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/mailbox-helpers.php:748
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:71
+msgid ""
+"<strong>ERROR</strong>: This username is invalid because it uses illegal "
+"characters. Please enter a valid username."
+msgstr ""
+"<strong>FEL:</strong> Användarnamnet är ogiltigt eftersom det innehåller "
+"icke tillåtna tecken. Var vänlig och ange ett riktigt användarnamn."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/mailbox-helpers.php:751
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:75
+msgid ""
+"<strong>ERROR</strong>: This username is already registered. Please choose "
+"another one."
+msgstr "<strong>Fel</strong>: Detta användarnamn är upptaget. Välj ett nytt."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/mailbox-helpers.php:756
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:80
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr "<strong>FEL:</strong> Vänligen skriv din e-postadress."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/mailbox-helpers.php:758
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:82
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr "<strong>FEL:</strong> E-postadressen är inte riktig."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/mailbox-helpers.php:761
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:86
+msgid ""
+"<strong>ERROR</strong>: This email is already registered, please choose "
+"another one."
+msgstr ""
+"<strong>FEL:</strong> Den här e-postadressen är redan registrerad, var "
+"vänlig och välj en annan."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/mailbox-helpers.php:801
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:101
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: Couldn&#8217;t register you&hellip; please contact "
+"the <a href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+"<strong>Fel</strong>: Något gick fel. Var vänlig kontakta <a href=\"mailto:%s"
+"\">webmaster</a> !"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:311
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Ticket.php:237
+msgid "Required field(s) is empty"
+msgstr "Obligatoriska fält är tomt"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:317
+msgid "Email is not a valid"
+msgstr "E-post adressen är inte giltlig"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:466
+msgid "None"
+msgstr "Ingen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:617
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:632
+msgid "Month"
+msgstr "Månad"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:623
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:638
+#, php-format
+msgid "%1$s-%2$s"
+msgstr "%1$s-%2$s"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:627
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:642
+msgid "Day"
+msgstr "Dag"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:628
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:643
+msgid "Year"
+msgstr "År"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:629
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:644
+msgid "Hour"
+msgstr "Timme"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:630
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:645
+msgid "Minute"
+msgstr "Minut"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:653
+#, php-format
+msgid "%1$s %2$s, %3$s"
+msgstr "%1$s %2$s, %3$s"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:679
+msgid "OK"
+msgstr "OK"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/helpers.php:680
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:73
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:85
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:112
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:146
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:173
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-published.php:164
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/template-helpers.php:143
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details-agent.php:107
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details.php:100
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:42
+msgid "Open"
+msgstr "Öppna"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/template-helpers.php:177
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:345
+msgid "&lt;&lt;Me&gt;&gt;"
+msgstr "&lt;&lt;Mig&gt;&gt;"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/template-helpers.php:228
+msgid "Please select"
+msgstr "Vänligen völj"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/ticket-helpers.php:412
+msgid "All data"
+msgstr "All data"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/ticket-helpers.php:412
+msgid "Private notes"
+msgstr "Privata anteckningar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/ticket-helpers.php:412
+msgid "History"
+msgstr "Historik"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/ticket-helpers.php:412
+msgid "Contact replies"
+msgstr "Kontakt svar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/ticket-helpers.php:412
+msgid "Agent replies"
+msgstr "Agenten svarar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/ticket-helpers.php:572
+msgid "An error occured try again later"
+msgstr "Ett fel inträffade försök igen senare"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/ticket-helpers.php:611
+msgid "An error has occurred during the file upload"
+msgstr "Ett fel uppstod under filuppladdningen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/ticket-helpers.php:634
+#, fuzzy
+msgid ""
+"<p><b>Message sent!</b><br> We just got your request! And do our best to "
+"answer emails as soon as possible</p>"
+msgstr ""
+"<p><b>Meddelande är skickat!</b><br>Vi har tagit emot förfrågan och "
+"återkommer inom kort, oftast inom en arbetsdag.</p>"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Settings_Page.php:33
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Settings_Page.php:77
+msgid "Helpdesk settings"
+msgstr "Helpdesk inställningar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Settings_Page.php:33
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Settings_Page.php:76
+msgid "Settings"
+msgstr "inställningar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Help_Catcher.php:40
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:106
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:153
+msgid "What we can help you with?"
+msgstr "Vad vi kan hjälpa dig med?"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Help_Catcher.php:48
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:114
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:161
+msgid ""
+"<p><b>Message sent!</b><br /> We just got your request! And do our best to "
+"answer emails as soon as possible</p>"
+msgstr ""
+"<p><b>Meddelande är skickat!</b><br>Vi har tagit emot förfrågan och "
+"återkommer inom kort, oftast inom en arbetsdag.</p>"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:256
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-published.php:110
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:42
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:70
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:92
+msgid "Status"
+msgstr "Ändra lösenord"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:257
+msgid "#"
+msgstr "#"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:258
+#, fuzzy
+msgid "Title"
+msgstr "Rubrik:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:259
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-published.php:125
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:67
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:157
+msgid "Tags"
+msgstr "Taggar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:261
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:39
+msgid "Ticket"
+msgstr "Ärende"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:262
+msgid "Author"
+msgstr "Författare"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:263
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-published.php:100
+msgid "Assignee"
+msgstr "Den som tilldelas kontraktet"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:264
+#, fuzzy
+msgid "Create Date"
+msgstr "Ärende datum"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:705
+msgid "Export"
+msgstr "Exportera"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:740
+msgid "Are you sure you want to delete this comment?"
+msgstr "Är du säker på att du vill radera denna kommentar?"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:741
+msgid "This ticket spam? Comments and contact will be deleted."
+msgstr "Är detta ärende spam? Kommentarer och kontakt tas bort."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:742
+msgid ""
+"No instance of TinyMCE found. Please use wp_editor on this page at least "
+"once: http://codex.wordpress.org/Function_Reference/wp_editor"
+msgstr ""
+"Ingen instans av TinyMCE hittade. Använd wp_editor på denna sidan minst en "
+"gång: http://codex.wordpress.org/Function_Reference/wp_editor"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:744
+msgid "You can't submit an empty comment"
+msgstr "Du kan inte skicka en tom kommentar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:745
+msgid "You can't save an empty comment"
+msgstr "Du kan inte spara en tom kommentar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:746
+msgid "Wrong email"
+msgstr "Fel e-post"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:747
+msgid "You can't add an empty field name"
+msgstr "Du kan inte lägga till ett tomt fältnamn"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:748
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-published.php:115
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Admin_Ticket_Layout.php:152
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:71
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:88
+msgid "Contact"
+msgstr "Kontakta"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:749
+msgid "Select contact"
+msgstr "Völj kontakt"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:750
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:49
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:79
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:140
+msgid "Add new contact"
+msgstr "Lägg till ny kontakt"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:751
+#, fuzzy
+msgid "Please select contact"
+msgstr "Vänligen völj"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:752
+msgid "Cc and Bcc options available only if \"Reply To\" address specified"
+msgstr "Cc och Bcc är endast möjlig att välja om \"svara till\" adress är vald"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:963
+msgid "Get help!"
+msgstr "Skaffa hjälp!"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1043
+msgid "StudioTG Helpdesk Welcome page"
+msgstr "StudioTG Helpdesk välkomstsida"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1043
+msgid "Welcome"
+msgstr "Välkommen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1057
+msgid "StudioTG Helpdesk Wizard page"
+msgstr "StudioTG Helpdesk guidesida"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1057
+msgid "Wizard"
+msgstr "Guide"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1064
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-pro-version.php:15
+msgid "Pro-version"
+msgstr "Pro version"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1078
+msgid "My tickets"
+msgstr "Mina ärenden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1157
+msgid ""
+"See also: <a href=\"https://support.google.com/accounts/answer/6009563\" "
+"target=\"_blank\">https://support.google.com/accounts/answer/6009563</a>"
+msgstr ""
+"Se också: <a href=\"https://support.google.com/accounts/answer/6009563\" "
+"target=\"_blank\">https://support.google.com/accounts/answer/6009563</a>"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1176
+msgid "No new messages for processing"
+msgstr "Inga nya meddelanden för åtgärd"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1182
+msgid "Can not connect to the server. Please, check your setting."
+msgstr ""
+"Kan inte ansluta till servern. Vänligen kontrollera dina inställningar."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1196
+msgid ""
+"Thank you for contacting us. Your message has been successfully sent. We "
+"will contact you very soon!"
+msgstr ""
+"Tack för att du kontaktar oss. Ditt meddelande har skickats. Vi kommer att "
+"kontakta dig inom kort!"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1199
+msgid "An error occurred when send message."
+msgstr "Ett fel uppstod vid skickande av meddelande."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1213
+msgid "Check connection from Tickets"
+msgstr "Kontrollera anslutningen från Ärenden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1214
+msgid "Connection successful!"
+msgstr "Anslutningen lyckades!"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1249
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1257
+#, php-format
+msgid "<a href=\"%s\" "
+msgstr "<a href=\"%s\" "
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1283
+#, php-format
+msgid ""
+"If you like <b>Catchers Helpdesk</b> please leave us a <a id=\"stg-rating-"
+"anchor\" data-msg-click=\"%s\" target=\"_blank\" href=\"%s\">&#9733;&#9733;"
+"&#9733;&#9733;&#9733;</a> rating. A huge thank you from Catchers in advance!"
+msgstr ""
+"If you like <b>Catchers Helpdesk</b> please leave us a <a id=\"stg-rating-"
+"anchor\" data-msg-click=\"%s\" target=\"_blank\" href=\"%s\">&#9733;&#9733;"
+"&#9733;&#9733;&#9733;</a> rating. A huge thank you from Catchers in advance!"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1283
+msgid "Thanks!"
+msgstr "Tack!"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/Stg_Helpdesk_Admin.php:1285
+msgid "Thank you for using our plugin!"
+msgstr "Tack för att du använder vår plugin!"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/notify-agent.php:21
+#, fuzzy
+msgid "Not send"
+msgstr "Hittades inte"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/notify-agent.php:27
+#, fuzzy
+msgid "Notify contact"
+msgstr "Völj kontakt"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/notify-agent.php:33
+#, fuzzy
+msgid "Send to contact"
+msgstr "Völj kontakt"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:41
+#, fuzzy
+msgid "Contact:"
+msgstr "Kontakta"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:44
+msgid "Enter 3 or more characters"
+msgstr "Fyll i 3 eller fler tecken"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:51
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-form.php:58
+msgid "Cc/Bcc"
+msgstr "Kopia/Hemlig kopia"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:59
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:98
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:159
+msgid "Name:"
+msgstr "Namn"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:64
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:103
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:164
+msgid "Email:"
+msgstr "E-post"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:75
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:114
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:175
+msgid "Add"
+msgstr "Lägg till"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:83
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-form.php:65
+msgid "Cc:"
+msgstr "Kopia:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:88
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-form.php:70
+msgid "Bcc:"
+msgstr "Hemlig kopia:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:127
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details-agent.php:27
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-form.php:127
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details.php:27
+msgid "Status:"
+msgstr "Status:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:135
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-form.php:135
+msgid "Assigned:"
+msgstr "Tilldelad:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:147
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:58
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Admin_Ticket_Layout.php:121
+msgid "Add new ticket"
+msgstr "Skapa nytt ärende"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:158
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-form.php:157
+msgid "Ticket is closed"
+msgstr "Ärendet har stängts."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:161
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-form.php:160
+msgid ""
+"This ticket has been closed. If you want to write a new comment to this "
+"ticket, you need to re-open it first."
+msgstr ""
+"Detta ärende har stängts. Om du vill skriva en ny kommentar till detta "
+"ärende, måste du först öppna den igen."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/ticket-form.php:168
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-form.php:167
+msgid "Sorry, you don't have sufficient permissions to add comments."
+msgstr ""
+"Tyvärr, du inte har tillräcklig behörighet för att lägga till kommentarer."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:37
+msgid "at"
+msgstr "vid"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:65
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:126
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details-agent.php:32
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details-agent.php:53
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details-agent.php:67
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details-agent.php:82
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/custom_fields.php:61
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/custom_fields_default.php:57
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details.php:32
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details.php:53
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details.php:75
+msgid "Change"
+msgstr "Ändra"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:87
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:148
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details-agent.php:101
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details.php:94
+msgid "Update"
+msgstr "Uppdatera"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/user_crm_profile.php:121
+#, fuzzy
+msgid "User not found"
+msgstr "Hittades inte"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details-agent.php:48
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details.php:48
+msgid "Category:"
+msgstr "Kategori:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details-agent.php:63
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details.php:63
+msgid "Date:"
+msgstr "Datum:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details-agent.php:76
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details.php:69
+msgid "Assigned to:"
+msgstr "Tilldelad:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details-agent.php:114
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/details.php:107
+msgid "Re-open"
+msgstr "Öppna igen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-form.php:31
+msgid "This function is available in a PRO version"
+msgstr "Denna funktion är tillgänglig i Pro-versionen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-form.php:36
+msgid "Private note"
+msgstr "Privat notering"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-form.php:52
+msgid "Reply To:"
+msgstr "Svara till:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/comments-form.php:146
+msgid "Send reply"
+msgstr "Skicka svar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/added-info.php:20
+#, fuzzy
+msgid "agent"
+msgstr "Agent"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/added-info.php:28
+msgid "Added:"
+msgstr "Tillagd:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/added-info.php:29
+#, php-format
+msgid "about %s ago by"
+msgstr "omkring %s år sedan av"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/metaboxes/added-info.php:34
+#, php-format
+msgid "via %s"
+msgstr "via %s"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/integrations.php:18
+#, fuzzy
+msgid "Integrations"
+msgstr "Samtal"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/integrations.php:22
+msgid "Google reCAPTCHA, "
+msgstr "Google reCAPTCHA, "
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/integrations.php:25
+#, fuzzy
+msgid "Site key"
+msgstr "Licensnyckel"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/integrations.php:30
+msgid "Secret key"
+msgstr "Hemlig nyckel"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/integrations.php:36
+msgid "Language settings, see more about "
+msgstr "Språkinställningar, läs mer om"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/integrations.php:36
+msgid "language codes"
+msgstr "språkkoder"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/integrations.php:39
+msgid "Language code"
+msgstr "Språkkod"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/integrations.php:46
+msgid "Plugin update"
+msgstr "Uppdatering av plugin"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/integrations.php:49
+msgid "Envato Personal Token"
+msgstr "Envato personlig Token"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/integrations.php:54
+#, fuzzy
+msgid "Plugin license"
+msgstr "Aktivera licens"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-fileupload.php:8
+msgid "File upload"
+msgstr "Filuppladdning"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-fileupload.php:18
+msgid "Maximum files"
+msgstr "Maximalt antal filer"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-fileupload.php:22
+msgid "How many files can a user attach to a ticket?"
+msgstr ""
+"Hur många bilagor kan en användare max ladda upp till ett ärende eller svar?"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-fileupload.php:25
+msgid "Allowed types"
+msgstr "Tillåtna filtyper"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-fileupload.php:29
+msgid ""
+"Which file types do you allow your users to attach uncompressed? Other files "
+"will be converted zip. <br> (Option is also used for file through the mail "
+"server)"
+msgstr ""
+"Vilka filtyper tillåter du dina användare att bifoga okomprimerade? Andra "
+"filer kommer att omvandlas till zip.<br>(Alternativet används också för "
+"filer som skickas via den e-postservern)"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:12
+msgid "Outgoing mail"
+msgstr "Utgående e-post"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:16
+msgid "From"
+msgstr "Från"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:19
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:41
+msgid "From  e-mail"
+msgstr "Från e-post"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:25
+msgid "From name*"
+msgstr "Från namn*"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:32
+#, fuzzy
+msgid "Advanced settings"
+msgstr "Helpdesk inställningar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:35
+#, fuzzy
+msgid "Set smtp settings"
+msgstr "Helpdesk inställningar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:48
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:70
+msgid "Host*"
+msgstr "Host*"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:55
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:43
+msgid "Username*"
+msgstr "Användarnamn*"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:61
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:50
+msgid "Password*"
+msgstr "Lösenord*"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:68
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:76
+msgid "Encryption*"
+msgstr "Kryptering*"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:76
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:83
+msgid "Port*"
+msgstr "Port*"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:80
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:86
+msgid "Default ports"
+msgstr "Standardportarna"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:85
+msgid "Send a test e-mail"
+msgstr "Skicka ett testmail"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:88
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:412
+msgid "E-mail"
+msgstr "E-post"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:92
+msgid "Enter e-mail address to send the test letter (save first)"
+msgstr "Ange e-postadress för att skicka ett testmail (spara först)"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:95
+msgid "Send test e-mail"
+msgstr "Skicka testmail"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:98
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-gethelp.php:35
+msgid "Send"
+msgstr "Skicka"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:99
+msgid "Save changes first"
+msgstr "Spara ändringar först"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:100
+msgid "Message sent successfully"
+msgstr "Meddelandet har skickats"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-outgoing.php:101
+msgid "Error. Message not sent"
+msgstr "Fel. Meddelandet skickades inte."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:14
+msgid "Incoming mail"
+msgstr "Inkommande e-post"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:18
+msgid "Mail check interval"
+msgstr "Intervall för att hämta e-post"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:22
+msgid "every minute"
+msgstr "varje minut"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:23
+msgid "every five minutes"
+msgstr "var femte minut"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:24
+msgid "every fifteen minutes"
+msgstr "var femtonde minut"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:25
+msgid "every thirty minutes"
+msgstr "varje halvtimme"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:26
+msgid "every hour"
+msgstr "varje timme"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:27
+msgid "never"
+msgstr "aldrig"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:32
+msgid "Truncate emails after this line"
+msgstr "Trunkera e-post efter den här raden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:35
+msgid "Please type your reply above this line"
+msgstr "Vänligen skriv in ditt svar ovanför denna rad"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:46
+msgid "e-mail address for auto-reply and notification"
+msgstr "e-postadress för autosvar och notiser"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:57
+msgid "Protocol*"
+msgstr "Protokoll*"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:112
+msgid "Check configuration"
+msgstr "Kontrollera inställning"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:114
+msgid "Check"
+msgstr "Kontrollera"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:116
+msgid "Test your configuration (save first)"
+msgstr "Testa konfigurationen (spara först)"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:120
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-mailserver.php:122
+msgid "Get mails"
+msgstr "Hämta e-post"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:9
+msgid "General"
+msgstr "Allmänt"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:12
+msgid "Default assignee"
+msgstr "Tilldelad som standard"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:15
+msgid "New tickets will be automatically assigned to that person"
+msgstr "Nya ärenden tilldelas automatiskt till den personen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:20
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:94
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:141
+msgid "File Upload Configuration"
+msgstr "Filuppladdnings konfiguration"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:24
+msgid ""
+"Do you want to allow your users to upload attachments? <br> (Option is also "
+"used for file send through the mail server)"
+msgstr ""
+"Vill du låta användare ladda upp bilagor?<br>(Alternativet används också för "
+"att skicka filer via mailservern)"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:27
+msgid "Tracking"
+msgstr "Spåra"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:31
+msgid "Open tracking"
+msgstr "Öppen spårning"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:35
+msgid "Enable open tracking"
+msgstr "Möjliggör öppen spårning"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:38
+msgid "Auto reply"
+msgstr "Autosvar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:46
+msgid "Enable auto reply"
+msgstr "Aktivera autosvar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:50
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-gethelp.php:32
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:414
+msgid "Message"
+msgstr "Medelande"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:54
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Activator.php:74
+msgid ""
+"<br /><p>Hello, <br /> We just got your help request! And do our best to "
+"answer emails as soon as possible, with most inquiries receiving a response "
+"within about a day.</p>"
+msgstr ""
+"<br><p>Hej<br>Vi har precis tagit emot din förfrågan! Vi gör vårt bästa för "
+"att besvara e-post så snart som möjligt, vanligtvis inom en arbetsdag.</p>"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:69
+msgid "Email footer"
+msgstr "E-post sidfot"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:73
+msgid "Footer content"
+msgstr "Innehåll i sidfoten"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:82
+msgid "Plugin pages"
+msgstr "Sidor för plugin"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:86
+msgid "Create plugin pages"
+msgstr "Skapa sidor för plugin "
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-core.php:88
+msgid "Create"
+msgstr "Skapa"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-email.php:13
+msgid "Notifications"
+msgstr "Notifikationer"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-email.php:17
+msgid "Ticket subject"
+msgstr "Ärendets ämne"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-email.php:20
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Email.php:435
+msgid "Re: {ticket_title}"
+msgstr "Svar: {ticket_title}"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-email.php:21
+msgid "Each e-mail notification will have this subject."
+msgstr "Varje e-post notis kommer att ha detta ämne"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-email.php:26
+msgid "Agent notifications"
+msgstr "Agent aviseringar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-email.php:30
+msgid "New reply from client"
+msgstr "Nytt svar från klienten"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-email.php:31
+msgid "Ticket assigned to agent"
+msgstr "Ärendet tilldelat till"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-email.php:38
+msgid "Add a  ticket link to notification letter"
+msgstr "Lägg till ärendelänk till meddelandet"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-contactform.php:15
+#, fuzzy
+msgid "Contact form"
+msgstr "Kontakta"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-contactform.php:18
+#, fuzzy
+msgid "Contact form fields"
+msgstr "Kontakt svar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-contactform.php:22
+#, fuzzy
+msgid "Ticket Category"
+msgstr "Ärende datum"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-gethelp.php:14
+msgid "Get help"
+msgstr "Få hjälp"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Admin/settings/settings-gethelp.php:23
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:411
+msgid "Name"
+msgstr "Namn"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:18
+#, fuzzy
+msgid "Select fields"
+msgstr "Välj"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:19
+#, fuzzy
+msgid "Required field"
+msgstr "Obligatoriska fält är tomt"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:20
+#, fuzzy
+msgid "not found"
+msgstr "Hittades inte"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:64
+#, fuzzy
+msgid "Ticket fields"
+msgstr "Ärende som tilldelats"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:68
+msgid "Subject (required field)"
+msgstr "Ämnestitel (obligatoriskt)"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:69
+msgid "Message (required field)"
+msgstr "Meddelande (obligatoriskt)"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:70
+msgid "Files"
+msgstr "Filer"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:71
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:73
+#, fuzzy
+msgid "Contact fields"
+msgstr "Kontakt svar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:75
+msgid "Name (required field)"
+msgstr "Namn (obligatoriskt)"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:76
+msgid "Email (required field)"
+msgstr "E-post (obligatoriskt)"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Custom_Forms.php:78
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Admin_Ticket_Layout.php:190
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Admin_Ticket_Layout.php:197
+#, fuzzy
+msgid "Custom fields"
+msgstr "Fältet uppdaterades."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:18
+msgid "Select macros"
+msgstr "Välj makro"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:19
+msgid "Select saved reply"
+msgstr "Välj sparat svar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:27
+msgid "Customer"
+msgstr "Kund"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:29
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:35
+msgid "First Name"
+msgstr "Förnamn"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:30
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:36
+msgid "Last Name"
+msgstr "Efternamn"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:31
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:37
+msgid "Full Name"
+msgstr "Fullständigt namn"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:33
+msgid "Agent"
+msgstr "Agent"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:41
+msgid "Ticket Assigned"
+msgstr "Ärende som tilldelats"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:42
+msgid "Ticket ID"
+msgstr "Skapa nytt ärende"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:43
+msgid "Ticket Subject"
+msgstr "Ärendets ämne"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:44
+msgid "Ticket Quoted Description"
+msgstr "Infogad ärendebeskrivning"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:45
+msgid "Ticket History"
+msgstr "Ärendehistorik"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:46
+msgid "Ticket Status"
+msgstr "Ärendestatus"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:47
+msgid "Ticket Public URL"
+msgstr "Ärendets publika länk"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_Saved_Replies.php:48
+msgid "Ticket Date"
+msgstr "Ärende datum"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:72
+msgid "File uploading failed"
+msgstr "Filuppladdning misslyckades"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:100
+msgid "This post type is not supported"
+msgstr "Denna post typ stöds inte"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:107
+msgid "File uploads are disabled"
+msgstr "Filöverföringar är inaktiverade"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:114
+msgid "You are trying to add the same files"
+msgstr "Du försöker lägga till samma filer"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:272
+msgid "The file you requested is not a valid attachment"
+msgstr "Filen du begärde är inte ett giltligt format"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:276
+msgid "The attachment you requested is not attached to any ticket"
+msgstr "Den bifogade filen du begärde är inte kopplad till något ärende"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:283
+msgid "You are not allowed to view this attachment"
+msgstr "Du har inte tillåtelse att redigera den här bilagan."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:454
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr "﻿Den uppladdade filen överstiger den maximalt tillåtna storleken"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:457
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form"
+msgstr ""
+"﻿Den uppladdade filen överstiger den maximala filstorleken som angavs i HTML-"
+"formuläret."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:460
+msgid "The uploaded file was only partially uploaded"
+msgstr "Filen laddades bara delvis upp."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:463
+msgid "No file was uploaded"
+msgstr "Ingen fil laddades upp"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:466
+msgid "Missing a temporary folder"
+msgstr "Saknar en temporär mapp."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:469
+msgid "Failed to write file to disk"
+msgstr "Det gick inte att skriva filen till diskutrymmet."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:472
+msgid "File upload stopped by extension"
+msgstr "Filuppladdningen stoppades av ett tillägg"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Helpers/Stg_Helper_UploadFiles.php:475
+msgid "Unknown upload error"
+msgstr "Okänt uppladdningsfel"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Updater/Adapter/AdapterEnvato.php:53
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Updater/Adapter/AdapterEnvato.php:57
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Updater/Adapter/AdapterEnvato.php:84
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Updater/Adapter/AdapterEnvato.php:88
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Updater/Adapter/AdapterMycatchers.php:78
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Updater/Adapter/AdapterMycatchers.php:82
+msgid "An unknown API error occurred."
+msgstr "Ett okänt problem med API inträffade."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Widget/Stg_Widget_Form.php:14
+msgid "Widget form support"
+msgstr "Widget stöd för formulär"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Widget/Stg_Widget_Form.php:15
+msgid "A widget form support"
+msgstr "En widget form stöd"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Widget/Stg_Widget_Form.php:28
+msgid "Title:"
+msgstr "Rubrik:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:409
+msgid "Attach file"
+msgstr "Bifoga fil"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:417
+msgid "This field is required"
+msgstr "Detta fält är obligatoriskt"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:418
+msgid "Please inter a valid email address"
+msgstr "Vänligen ange en giltig e-postadress"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:438
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:449
+#, fuzzy
+msgid "Custom Fields"
+msgstr "Kund"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:439
+#, fuzzy
+msgid "Custom Field"
+msgstr "Kund"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:440
+#, fuzzy
+msgid "Search Custom Fields"
+msgstr "Sök bland ärenden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:441
+msgid "All Custom Fields"
+msgstr "Alla anpassade fält"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:442
+#, fuzzy
+msgid "Parent Custom Field"
+msgstr "Parent item"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:443
+#, fuzzy
+msgid "Parent Custom Field:"
+msgstr "Parent item:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:444
+msgid "Edit Custom Field"
+msgstr "Redigera anpassat fält"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:445
+msgid "View Custom Field"
+msgstr "Granska anpassat fält"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:446
+msgid "Update Custom Field"
+msgstr "Uppdatera anpassat fält"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:447
+#, fuzzy
+msgid "Add New Custom Field"
+msgstr "Skriv ett nytt svar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:448
+#, fuzzy
+msgid "New Custom Field Name"
+msgstr "Fältet uppdaterades."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:475
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:497
+msgid "Type"
+msgstr "Typ"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:512
+msgid "Required"
+msgstr "Obligatoriskt"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:521
+#, fuzzy
+msgid "Options"
+msgstr "Fler val"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:524
+msgid "Add each value from new line"
+msgstr "Lägg till varje val på en ny rad"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:530
+#, fuzzy
+msgid "Default value"
+msgstr "Tilldelad som standard"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:538
+msgid "Format"
+msgstr "format"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:546
+#, fuzzy
+msgid "Container"
+msgstr "Kontakta"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:633
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:644
+#, fuzzy
+msgid "Contact Forms"
+msgstr "Kontakt svar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:634
+#, fuzzy
+msgid "Contact Form"
+msgstr "Kontakta"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:635
+#, fuzzy
+msgid "Search Contact Forms"
+msgstr "Sök bland ärenden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:636
+#, fuzzy
+msgid "All Contact Forms"
+msgstr "Kontakt svar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:637
+#, fuzzy
+msgid "Parent Contact Form"
+msgstr "Parent item"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:638
+#, fuzzy
+msgid "Parent Contact Form:"
+msgstr "Parent item:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:639
+#, fuzzy
+msgid "Edit Contact Form"
+msgstr "Ändra kategori"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:640
+#, fuzzy
+msgid "View Contact Form"
+msgstr "Se kategorr"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:641
+#, fuzzy
+msgid "Update Contact Form"
+msgstr "Uppdatera kategori"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:642
+#, fuzzy
+msgid "Add New Contact Form"
+msgstr "Lägg till ny kontakt"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:643
+#, fuzzy
+msgid "New Contact Form Name"
+msgstr "Nytt kategori namn"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:717
+msgid "Search Replies"
+msgstr "Sök svar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:718
+msgid "All Replies"
+msgstr "Alla svar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:719
+msgid "Parent Reply"
+msgstr "Föregående svar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:720
+msgid "Parent Reply:"
+msgstr "Föregående svar:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:721
+msgid "Edit Reply"
+msgstr "Ändra svaret"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:722
+msgid "View Reply"
+msgstr "Se svar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:723
+msgid "Update Reply"
+msgstr "Uppdatera svaret"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:724
+msgid "Add New Reply"
+msgstr "Skriv ett nytt svar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:725
+msgid "New Reply Name"
+msgstr "Nytt svars namn"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:726
+msgid "Saved Replies"
+msgstr "Sparade svar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:754
+#, fuzzy
+msgctxt "Taxonomy Description"
+msgid "Description"
+msgstr "Beskrivning"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:762
+msgid ""
+"The description is not prominent by default; however, some themes may show "
+"it."
+msgstr ""
+"Beskrivningen är inte framträdande som standard. dock kan vissa teman visa "
+"det."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:775
+msgctxt "Taxonomy Description"
+msgid "Form Constructor"
+msgstr "Formulärets skapare"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Init.php:784
+msgid "Shortcode"
+msgstr "Shortcode (kortkod)"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Activator.php:236
+msgid "Helpdesk manager"
+msgstr "Kundservice ansvarig"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/Stg_Helpdesk_Activator.php:237
+msgid "Helpdesk client"
+msgstr "Helpdesk-klient"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type_Priority.php:10
+msgctxt "Ticket priority"
+msgid "Low"
+msgstr "Låg"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type_Priority.php:11
+msgctxt "Ticket priority"
+msgid "Normal"
+msgstr "Normal"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type_Priority.php:12
+msgctxt "Ticket priority"
+msgid "High"
+msgstr "Hög"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type_Priority.php:13
+#, fuzzy
+msgctxt "Ticket priority"
+msgid "Urgent"
+msgstr "Agent"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type_Priority.php:14
+msgctxt "Ticket priority"
+msgid "Immediately"
+msgstr "Omedelbart"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type_Statuses.php:10
+#, fuzzy
+msgctxt "Ticket status"
+msgid "Answered"
+msgstr "Svar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type_Statuses.php:11
+msgctxt "Ticket status"
+msgid "Not answered"
+msgstr "Inte besvarad"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type_Statuses.php:12
+msgctxt "Ticket status"
+msgid "New"
+msgstr "Ny"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type_Statuses.php:13
+msgctxt "Ticket status"
+msgid "Closed"
+msgstr "Stängd"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:52
+#, fuzzy
+msgctxt "post type general name"
+msgid "Tickets"
+msgstr "Ärende"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:53
+#, fuzzy
+msgctxt "post type singular name"
+msgid "Ticket"
+msgstr "Ärende"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:54
+#, fuzzy
+msgctxt "admin menu"
+msgid "Tickets"
+msgstr "Ärende"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:55
+#, fuzzy
+msgctxt "add new on admin bar"
+msgid "Ticket"
+msgstr "Ärende"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:57
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:60
+msgid "New ticket"
+msgstr "Nytt ärende"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:61
+msgid "Edit ticket"
+msgstr "Ändra ärende"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:62
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:239
+msgid "View ticket"
+msgstr "Läs ärendet"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:63
+msgid "All tickets"
+msgstr "Alla ärenden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:64
+msgid "Search tickets"
+msgstr "Sök bland ärenden"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:65
+msgid "No tickets found."
+msgstr "Inga ärenden hittades."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:116
+#, fuzzy
+msgctxt "Taxonomy general name"
+msgid "Categories"
+msgstr "Kategori"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:117
+#, fuzzy
+msgctxt "Taxonomy singular name"
+msgid "Category"
+msgstr "Kategori"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:118
+msgid "Categories"
+msgstr "Kategori"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:119
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:158
+msgid "All items"
+msgstr "Alla objekt"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:120
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:159
+msgid "Parent item"
+msgstr "Parent item"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:121
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:160
+msgid "Parent item:"
+msgstr "Parent item:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:122
+msgid "New category name"
+msgstr "Nytt kategori namn"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:123
+msgid "Add new category"
+msgstr "Lägg till ny kategori"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:124
+msgid "Edit category"
+msgstr "Ändra kategori"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:125
+msgid "Update category"
+msgstr "Uppdatera kategori"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:126
+msgid "View category"
+msgstr "Se kategorr"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:127
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:166
+msgid "Separate items with commas"
+msgstr "Separera artiklar med kommatecken"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:128
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:167
+msgid "Add or remove items"
+msgstr "Lägg till eller ta bort artiklar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:129
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:168
+msgid "Choose from the most used"
+msgstr "Välj från de mest använda"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:130
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:169
+msgid "Popular items"
+msgstr "Populära sökningar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:131
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:170
+msgid "Search items"
+msgstr "Sök efter"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:133
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:172
+msgid "No items"
+msgstr "Inga produkter"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:134
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:173
+msgid "Items list"
+msgstr "Artikellista"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:135
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:174
+msgid "Items list navigation"
+msgstr "Navigering för artikellista"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:155
+#, fuzzy
+msgctxt "Taxonomy general name"
+msgid "Tags"
+msgstr "Taggar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:156
+#, fuzzy
+msgctxt "Taxonomy singular name"
+msgid "Tag"
+msgstr "Taggar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:161
+#, fuzzy
+msgid "New tag name"
+msgstr "Nytt kategori namn"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:162
+#, fuzzy
+msgid "Add new tag"
+msgstr "Lägg till ny kontakt"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:163
+#, fuzzy
+msgid "Edit tag"
+msgstr "Ändra kategori"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:164
+#, fuzzy
+msgid "Update tag"
+msgstr "Uppdatera"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:165
+#, fuzzy
+msgid "View tag"
+msgstr "Se kategorr"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:218
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:221
+msgid "Ticket updated."
+msgstr "Ärendet är uppdaterat."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:219
+msgid "Custom field updated."
+msgstr "Fältet uppdaterades."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:220
+msgid "Custom field deleted."
+msgstr "Fältet raderades."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:223
+#, php-format
+msgid "Ticket restored to revision from %s"
+msgstr "Ärendet återställdes till versionen från %s"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:225
+msgid "Ticket published."
+msgstr "Ärendet är publicerat."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:226
+msgid "Ticket saved."
+msgstr "Ärendet är sparad."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:227
+msgid "Ticket submitted."
+msgstr "Ärendet är skickat."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:229
+#, php-format
+msgid "Ticket scheduled for: <strong>%1$s</strong>."
+msgstr "Ärendet planeras till: <strong>%1$s</strong>."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:231
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:233
+msgid "Ticket draft updated."
+msgstr "Ärende utkastet är uppdaterad."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Core/PostType/Stg_Helpdesk_Post_Type.php:246
+msgid "Preview ticket"
+msgstr "Förhandsgranska ärende."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:84
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:131
+msgid "Help Catcher"
+msgstr "Help Catcher"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:87
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:134
+msgid "Enabled Help Catcher"
+msgstr "Aktiverad Help Catcher"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:98
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:145
+msgid "Do you want to allow your users to upload attachments in Help Catcher?"
+msgstr "Vill du låta användare ladda upp bilagor?"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:102
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:149
+msgid "Start conversation"
+msgstr "Starta konversationen"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:111
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:158
+msgid "Result message"
+msgstr "Medelanderesultat"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:120
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:167
+msgid "Button color"
+msgstr "Knappfärg"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:127
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:174
+msgid "Position"
+msgstr "Position"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:131
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:178
+msgid "Bottom right"
+msgstr "Knapp höger"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:132
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:179
+msgid "Bottom left"
+msgstr "Knapp vänster"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:138
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:185
+msgid "Widget code"
+msgstr "Widgetkod"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object.php:141
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Versionobject/Version_Object_3_6_1.php:188
+msgid ""
+"Below code needs to add on page for widget activation (save changes first)"
+msgstr ""
+"Nedan kod behövs läggas till på sidan för aktivering av widget (spara "
+"ändringar först)"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_MetaBoxes.php:451
+msgid "Change status"
+msgstr "Ändra status"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_MetaBoxes.php:459
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:89
+msgid "Assigned to"
+msgstr "Du har fått ett nytt ärende tilldelat"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Admin_Ticket_Layout.php:91
+msgid "Reply to ticket"
+msgstr "Skriv ett svar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Admin_Ticket_Layout.php:133
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Admin_Ticket_Layout.php:140
+msgid "Details"
+msgstr "Detaljer"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Admin_Ticket_Layout.php:160
+#, fuzzy
+msgid "Sending options"
+msgstr "Fler val"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Admin_Ticket_Layout.php:180
+msgid "Previous conversations"
+msgstr "Tidigare konversationer"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Admin_Ticket_Layout.php:211
+msgid ""
+"An error occurred while registering this metabox. Please contact the support."
+msgstr ""
+"Ett fel inträffade vid registrering av denna metabox. Vänligen kontakta "
+"supporten."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Admin_Ticket_Layout.php:218
+msgid ""
+"An error occured while loading this metabox. Please contact the support."
+msgstr ""
+"Ett fel uppstod vid inläsning av denna metabox. Vänligen kontakta supporten."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:46
+msgid "Answer"
+msgstr "Svar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:69
+msgid "ID"
+msgstr "ID"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:72
+msgid "Conversation"
+msgstr "Samtal"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:73
+msgid "Last update"
+msgstr "Senaste uppdatering"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:91
+msgid "Last reply"
+msgstr "Senaste svar"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:118
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:184
+msgid "Trash"
+msgstr "Papperskorg"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:247
+msgid "Assigned to: "
+msgstr "Tilldelad:"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:283
+#, fuzzy
+msgid "All categories"
+msgstr "Kategori"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketList.php:303
+msgid "Show all companies"
+msgstr "Visa alla företag"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Ticket.php:221
+msgid "reCAPTCHA failed"
+msgstr "reCAPTCHA misslyckades"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Ticket.php:230
+#, fuzzy
+msgid "Sign in before you can post a message. <a href=\""
+msgstr ""
+"Logga in innan du skickar ett meddelande. <a href=\"../wp-admin\">Logga in</"
+"a>"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Ticket.php:291
+msgid "An error occurred. Can`t add ticket"
+msgstr "Ett fel uppstod. Kan inte lägga till ärende"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Ticket.php:495
+#, php-format
+msgid "changed from %1$s to %2$s"
+msgstr "ändrades från %1$s till %2$s"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Ticket.php:497
+#, php-format
+msgid "set to %1$s "
+msgstr "set to %1$s "
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_Ticket.php:499
+#, php-format
+msgid "deleted (<s> %1$s </s>)"
+msgstr "raderad (<s> %1$s </s>)"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_CommentsAjax.php:262
+msgid "View all conversations"
+msgstr "Se alla samtal"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_CommentsAjax.php:266
+msgid "No conversations"
+msgstr "Inga samtal"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketCategory.php:25
+#, fuzzy
+msgid "Assign agent"
+msgstr "Den som tilldelas kontraktet"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketComments.php:130
+msgid "Anonymous"
+msgstr "Anonym"
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketComments.php:150
+msgid ""
+"Something went wrong. We couldn&#039;t identify your ticket. Please try "
+"again."
+msgstr "Något gick fel. Vi kunde inte identifiera din ärende. Försök igen."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketComments.php:207
+msgid "Your reply could not be submitted for an unknown reason."
+msgstr "Ditt svar kunde inte skickas av någon okänd anledning."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketComments.php:211
+msgid "Your reply has been submitted. Your agent will reply ASAP."
+msgstr ""
+"Ditt svar har skickats. Supportpersonalen kommer att svara så fort  som "
+"möjligt."
+
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketComments.php:288
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketComments.php:289
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketComments.php:329
+#: /var/www/stg/www/wp-content/plugins/catchers-helpdesk/src/Ticket/Stg_Helpdesk_TicketComments.php:330
+#, php-format
+msgid "Reply to ticket %s"
+msgstr "Svar till ärende %s"
+
+#~ msgid "CRM Profile"
+#~ msgstr "Företags profil"
+
+#~ msgid "Company"
+#~ msgstr "Företag"
+
+#~ msgid "Please enter your crm company."
+#~ msgstr "Vänligen fyll i ditt företagsnamn."
+
+#~ msgid "Skype"
+#~ msgstr "Skype"
+
+#~ msgid "Please enter your crm skype."
+#~ msgstr "Vänligen fyll i ditt Skype nummer."
+
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+#~ msgid "Please enter your crm phone."
+#~ msgstr "Vänligen fyll i ditt telefonnummer"
+
+#~ msgid "Website"
+#~ msgstr "Hemsida"
+
+#~ msgid "Please enter your crm website."
+#~ msgstr "Vänligen fyll i din websajt."
+
+#~ msgid "Please enter your crm position."
+#~ msgstr "Vänligen fyll i din ställning inom företaget."
+
+#~ msgid "Catchers Helpdesk pro-version"
+#~ msgstr "Catchers Helpdesk Pro version"
+
+#~ msgid "Color button"
+#~ msgstr "Färgknapp"
+
+#~ msgid "Color hover"
+#~ msgstr "Color hover"
+
+#~ msgid ""
+#~ "Thank you for contacting us. Your message has been successfully sent. We "
+#~ "will contact you very soon! Follow the news <a href=\"%s\">here.</a>"
+#~ msgstr ""
+#~ "Tack för att du kontaktar oss. Ditt meddelande har skickats och vi "
+#~ "återkommer till dig inom kort, oftast inom en arbetsdag!\n"
+#~ "Du kan följa ärendet <a href=\"%s\">här.</a>"

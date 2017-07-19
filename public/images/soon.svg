@@ -1,0 +1,9 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" text-rendering="optimizeLegibility">
+ <g>
+  <rect transform="rotate(45 100,100)" id="svg_2" height="30" width="200" y="-20" x="0" stroke-opacity="null" stroke-width="0" stroke="null" fill="#fc0505"/>
+  <text transform="rotate(45 165,35)" x="106" y="20" font-size="11px" font-weight="bold" fill="#ffffff" stroke="null" xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif"  fill-opacity="null" stroke-opacity="null" stroke-width="0">
+           <tspan>COMING</tspan>
+           <tspan dx="-7.5em" dy="1.1em">SOON!</tspan>
+  </text>
+ </g>
+</svg>

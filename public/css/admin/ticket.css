@@ -1,0 +1,19 @@
+#postbox-container-2{
+    margin-top:20px;
+}
+
+.page-title-action {
+    display: none;
+}
+
+#stgh-comments-form .toggle-indicator{
+    display: none;
+}
+
+#stgh-comments .toggle-indicator{
+    display: inherit;
+}
+
+.stgh_customfield_metabox_edit{
+    display: none;
+}
